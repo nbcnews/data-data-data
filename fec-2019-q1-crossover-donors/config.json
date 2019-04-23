@@ -1,0 +1,149 @@
+{
+  "committees": [
+    {
+      "id": "C00694455",
+      "name": "KAMALA HARRIS FOR THE PEOPLE",
+      "candidate": "Kamala Haris",
+      "type": "Principal campaign committee"
+    },
+    {
+      "id": "C00693234",
+      "name": "ELIZABETH WARREN PRESIDENTIAL EXPLORATORY COMMITTEE, INC.",
+      "candidate": "Elizabeth Warren",
+      "type": "Principal campaign committee"
+    },
+    {
+      "id": "C00695510",
+      "name": "CORY 2020",
+      "candidate": "Cory Booker",
+      "type": "Principal campaign committee"
+    },
+    {
+      "id": "C00696419",
+      "name": "AMY FOR AMERICA",
+      "candidate": "Amy Klobuchar",
+      "type": "Principal campaign committee"
+    },
+    {
+      "id": "C00694018",
+      "name": "GILLIBRAND 2020",
+      "candidate": "Kirsten Gillibrand",
+      "type": "Principal campaign committee"
+    },
+    {
+      "id": "C00696948",
+      "name": "BERNIE 2020",
+      "candidate": "Bernie Sanders",
+      "type": "Principal campaign committee"
+    },
+    {
+      "id": "C00697441",
+      "name": "PETE FOR AMERICA EXPLORATORY COMMITTEE, INC.",
+      "candidate": "Pete Buttigieg",
+      "type": "Principal campaign committee"
+    },
+    {
+      "id": "C00693713",
+      "name": "TULSI NOW",
+      "candidate": "Tulsi Gabbard",
+      "type": "Principal campaign committee"
+    },
+    {
+      "id": "C00699090",
+      "name": "BETO FOR AMERICA",
+      "candidate": "Beto O'Rourke",
+      "type": "Principal campaign committee"
+    },
+    {
+      "id": "C00693044",
+      "name": "JULIAN FOR THE FUTURE PRESIDENTIAL EXPLORATORY COMMITTEE",
+      "candidate": "Julian Castro",
+      "type": "Principal campaign committee"
+    },
+    {
+      "id": "C00698258",
+      "name": "HICKENLOOPER 2020",
+      "candidate": "John Hickenlooper",
+      "type": "Principal campaign committee"
+    },
+    {
+      "id": "C00698050",
+      "name": "INSLEE FOR AMERICA",
+      "candidate": "Jay Inslee",
+      "type": "Principal campaign committee"
+    },
+    {
+      "id": "C00659938",
+      "name": "FRIENDS OF ANDREW YANG",
+      "candidate": "Andrew Yang",
+      "type": "Principal campaign committee"
+    },
+    {
+      "id": "C00508416",
+      "name": "FRIENDS OF JOHN DELANEY",
+      "candidate": "John Delaney",
+      "type": "Principal campaign committee"
+    }
+  ],
+  "states": [
+    "AL",
+    "AK",
+    "AS",
+    "AZ",
+    "AR",
+    "CA",
+    "CO",
+    "CT",
+    "DE",
+    "DC",
+    "FM",
+    "FL",
+    "GA",
+    "GU",
+    "HI",
+    "ID",
+    "IL",
+    "IN",
+    "IA",
+    "KS",
+    "KY",
+    "LA",
+    "ME",
+    "MH",
+    "MD",
+    "MA",
+    "MI",
+    "MN",
+    "MS",
+    "MO",
+    "MT",
+    "NE",
+    "NV",
+    "NH",
+    "NJ",
+    "NM",
+    "NY",
+    "NC",
+    "ND",
+    "MP",
+    "OH",
+    "OK",
+    "OR",
+    "PW",
+    "PA",
+    "PR",
+    "RI",
+    "SC",
+    "SD",
+    "TN",
+    "TX",
+    "UT",
+    "VT",
+    "VI",
+    "VA",
+    "WA",
+    "WV",
+    "WI",
+    "WY"
+  ]
+}
