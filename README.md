@@ -4,6 +4,7 @@ The data and tools behind the NBC News Data &amp; Graphics team projects
 
 Story title | Folder name | Story URL
 --- | --- | ---
+FEMA vaccine supersite demographic data | [fema-vaccine-supersite](fema-vaccine-supersite) | [Federal vaccination data show mixed record on equity](https://www.nbcnews.com/politics/white-house/federal-vaccination-data-show-mixed-record-equity-n1276833)
 Supreme Court confirmations data | [supreme-court](supreme-court) | [Supreme Court nominations are taking longer. Time is not on Trump's side.](https://www.nbcnews.com/politics/supreme-court/supreme-court-nominations-are-taking-longer-time-not-trump-s-n1241077)
 U.S. statue and memorial removals | [statue-removal](statue-removal) | [A map of statue removals, 2020](https://www.nbcnews.com/news/us-news/2020-next-wave-statue-removals-afoot-map-n1230506)
 State of the Union visuals | [state-of-the-union](state-of-the-union) | [What the president talked about at the State of the Union, in graphics](https://www.nbcnews.com/politics/donald-trump/state-union-visualized-graphics-donald-trump-2020-n1130451)
