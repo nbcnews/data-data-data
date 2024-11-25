@@ -1,5 +1,7 @@
 # Home Buyer Index data
 
+Note that the [Home Buyer Index](https://www.nbcnews.com/data-graphics/us-home-buyer-index-data-cost-availability-difficulty-rcna139257) data covers more than 1,200 counties, where approximately 85% of the U.S. population live. Counties that don't have enough real estate transactions to make a meaningful assessment of market conditions are excluded.
+
 ## 2024-election-vote-shift-vs-index.csv
 
 This is the data behind the analysis comparing [how much the vote margin in certain counties in the 2024 presidential election shifted, compared to 2020](https://www.nbcnews.com/data-graphics/housing-market-trump-win-2024-election-rcna179153). Election result data is as of mid November.
