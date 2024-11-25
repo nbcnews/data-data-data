@@ -9,6 +9,6 @@ This is the data behind the analysis comparing [how much the vote margin in cert
 ### Data dictionary
 
 * geo_id: FIPS code
-* hbi: The [Home Buyer Index](https://www.nbcnews.com/data-graphics/us-home-buyer-index-data-cost-availability-difficulty-rcna139257) average for that county from January 2024 to September 2024.
+* hbi: The [Home Buyer Index](https://www.nbcnews.com/data-graphics/us-home-buyer-index-data-cost-availability-difficulty-rcna139257) average for that county from January 2024 to September 2024. The HBI is graded on a scale of 0 to 100, 100 is a most-difficult market, 0 is an easy homebuying market.
 * margin-pct-pt-chg: The percentage point change in the vote margin from 2020 to 2024. Positive values are a shift toward Trump, negative values a shift toward Harris. Example: If Biden received 55% of the vote and Trump 43% in 2020, the margin was -12 percentage points. Further, if in 2024, Harris received 52% of the vote and Trump 47%, that margin was -5 percentage points, a shift toward Trump of 7 percentage points.
 * shift-direction: Did the vote shift toward the Republicans (shift R) or the Democrats (shift D)
