@@ -1,0 +1,1238 @@
+year,geo_id,state,county,hbi,margin-pct-pt-chg,shift_direction
+2024,01001,Alabama,"Autauga County, AL",76.09904,1.561076332,shift R
+2024,01003,Alabama,"Baldwin County, AL",74.92439,4.077761902,shift R
+2024,01007,Alabama,"Bibb County, AL",66.96523,6.584039187,shift R
+2024,01009,Alabama,"Blount County, AL",63.10878,0.8677049752,shift R
+2024,01015,Alabama,"Calhoun County, AL",64.55765,5.518290026,shift R
+2024,01031,Alabama,"Coffee County, AL",68.13806,4.697976283,shift R
+2024,01033,Alabama,"Colbert County, AL",73.86771,4.785719154,shift R
+2024,01043,Alabama,"Cullman County, AL",61.44686,2.871317407,shift R
+2024,01049,Alabama,"DeKalb County, AL",66.39212,3.935322734,shift R
+2024,01051,Alabama,"Elmore County, AL",74.20055,3.500973154,shift R
+2024,01055,Alabama,"Etowah County, AL",61.94313,5.299510878,shift R
+2024,01069,Alabama,"Houston County, AL",68.95066,4.738283195,shift R
+2024,01073,Alabama,"Jefferson County, AL",56.42965,2.749584324,shift R
+2024,01077,Alabama,"Lauderdale County, AL",74.47385,6.648252896,shift R
+2024,01081,Alabama,"Lee County, AL",83.72829,7.42456598,shift R
+2024,01083,Alabama,"Limestone County, AL",48.87652,0.9486504378,shift R
+2024,01089,Alabama,"Madison County, AL",65.02456,0.957296293,shift R
+2024,01095,Alabama,"Marshall County, AL",61.18057,2.61770495,shift R
+2024,01101,Alabama,"Montgomery County, AL",65.95814,0.8889679361,shift R
+2024,01103,Alabama,"Morgan County, AL",65.86122,3.157266697,shift R
+2024,01115,Alabama,"St. Clair County, AL",50.88643,0.01695726966,shift R
+2024,01117,Alabama,"Shelby County, AL",58.22249,0.1695149368,shift R
+2024,01121,Alabama,"Talladega County, AL",53.21911,8.092007151,shift R
+2024,01123,Alabama,"Tallapoosa County, AL",77.25332,5.970177144,shift R
+2024,01125,Alabama,"Tuscaloosa County, AL",82.84394,5.349016624,shift R
+2024,01127,Alabama,"Walker County, AL",55.50307,3.810797104,shift R
+2024,01133,Alabama,"Winston County, AL",63.20204,1.783530735,shift R
+2024,04005,Arizona,"Coconino County, AZ",86.48712,4.127677748,shift R
+2024,04007,Arizona,"Gila County, AZ",75.67522,3.547547622,shift R
+2024,04013,Arizona,"Maricopa County, AZ",62.77931,5.729770972,shift R
+2024,04015,Arizona,"Mohave County, AZ",82.65072,4.535710654,shift R
+2024,04019,Arizona,"Pima County, AZ",68.58819,4.065333061,shift R
+2024,04021,Arizona,"Pinal County, AZ",56.9916,4.888774928,shift R
+2024,04025,Arizona,"Yavapai County, AZ",83.01066,4.734432467,shift R
+2024,04027,Arizona,"Yuma County, AZ",83.30921,17.98691214,shift R
+2024,05005,Arkansas,"Baxter County, AR",65.2628,3.52320946,shift R
+2024,05007,Arkansas,"Benton County, AR",80.85261,0.3736454339,shift R
+2024,05009,Arkansas,"Boone County, AR",64.412,3.090678527,shift R
+2024,05015,Arkansas,"Carroll County, AR",68.20362,2.428061295,shift R
+2024,05023,Arkansas,"Cleburne County, AR",64.36522,1.916717708,shift R
+2024,05031,Arkansas,"Craighead County, AR",69.96783,1.932402668,shift R
+2024,05033,Arkansas,"Crawford County, AR",70.6003,1.421224225,shift R
+2024,05045,Arkansas,"Faulkner County, AR",70.6309,2.709214166,shift R
+2024,05051,Arkansas,"Garland County, AR",68.95175,2.278479517,shift R
+2024,05053,Arkansas,"Grant County, AR",47.36456,1.475812052,shift R
+2024,05055,Arkansas,"Greene County, AR",63.49803,1.415815781,shift R
+2024,05059,Arkansas,"Hot Spring County, AR",55.31415,3.193812218,shift R
+2024,05069,Arkansas,"Jefferson County, AR",46.48063,1.46965436,shift R
+2024,05083,Arkansas,"Logan County, AR",51.50287,2.67055392,shift R
+2024,05085,Arkansas,"Lonoke County, AR",67.18638,0.8406513931,shift R
+2024,05113,Arkansas,"Polk County, AR",49.42955,2.295344164,shift R
+2024,05115,Arkansas,"Pope County, AR",71.34183,1.754439033,shift R
+2024,05119,Arkansas,"Pulaski County, AR",72.5668,-0.03845178002,shift D
+2024,05125,Arkansas,"Saline County, AR",70.12121,-1.103047539,shift D
+2024,05131,Arkansas,"Sebastian County, AR",73.32691,2.15103329,shift R
+2024,05135,Arkansas,"Sharp County, AR",49.44292,2.668011459,shift R
+2024,05139,Arkansas,"Union County, AR",62.35432,4.006211711,shift R
+2024,05141,Arkansas,"Van Buren County, AR",54.69043,3.219168193,shift R
+2024,05143,Arkansas,"Washington County, AR",80.00775,2.524647999,shift R
+2024,05145,Arkansas,"White County, AR",63.87077,2.096383243,shift R
+2024,06001,California,"Alameda County, CA",71.41998,10.44797698,shift R
+2024,06005,California,"Amador County, CA",65.97471,3.441243436,shift R
+2024,06007,California,"Butte County, CA",60.04541,3.326528182,shift R
+2024,06013,California,"Contra Costa County, CA",69.32453,7.272098934,shift R
+2024,06017,California,"El Dorado County, CA",65.41092,3.40939521,shift R
+2024,06019,California,"Fresno County, CA",73.71065,13.62949918,shift R
+2024,06021,California,"Glenn County, CA",63.13557,7.648012312,shift R
+2024,06023,California,"Humboldt County, CA",78.7225,14.7488615,shift R
+2024,06025,California,"Imperial County, CA",88.14236,24.37321231,shift R
+2024,06029,California,"Kern County, CA",78.56263,15.49778413,shift R
+2024,06033,California,"Lake County, CA",60.32812,24.54627398,shift R
+2024,06037,California,"Los Angeles County, CA",74.58854,11.1186236,shift R
+2024,06039,California,"Madera County, CA",68.67291,8.893572951,shift R
+2024,06041,California,"Marin County, CA",73.12557,4.951908163,shift R
+2024,06047,California,"Merced County, CA",76.81666,17.2654684,shift R
+2024,06053,California,"Monterey County, CA",78.24464,11.03030308,shift R
+2024,06055,California,"Napa County, CA",70.24889,6.218750795,shift R
+2024,06057,California,"Nevada County, CA",69.07566,8.210703441,shift R
+2024,06059,California,"Orange County, CA",85.46058,6.537509723,shift R
+2024,06061,California,"Placer County, CA",67.46911,2.846431944,shift R
+2024,06065,California,"Riverside County, CA",77.54927,10.34543824,shift R
+2024,06067,California,"Sacramento County, CA",71.48381,9.523193727,shift R
+2024,06069,California,"San Benito County, CA",70.23164,11.81380436,shift R
+2024,06071,California,"San Bernardino County, CA",78.7249,13.60909588,shift R
+2024,06073,California,"San Diego County, CA",80.59991,6.00903671,shift R
+2024,06075,California,"San Francisco County, CA",61.36787,7.369397856,shift R
+2024,06077,California,"San Joaquin County, CA",68.86937,19.03512062,shift R
+2024,06079,California,"San Luis Obispo County, CA",81.85516,-1.05085277,shift D
+2024,06081,California,"San Mateo County, CA",72.05779,7.553404006,shift R
+2024,06083,California,"Santa Barbara County, CA",84.5381,5.829912182,shift R
+2024,06085,California,"Santa Clara County, CA",77.28136,7.376868467,shift R
+2024,06087,California,"Santa Cruz County, CA",74.34992,6.306128216,shift R
+2024,06089,California,"Shasta County, CA",76.72789,2.628988123,shift R
+2024,06095,California,"Solano County, CA",63.13636,7.142104473,shift R
+2024,06097,California,"Sonoma County, CA",70.55112,10.31223839,shift R
+2024,06099,California,"Stanislaus County, CA",76.08964,12.44349803,shift R
+2024,06107,California,"Tulare County, CA",78.97723,13.26254806,shift R
+2024,06111,California,"Ventura County, CA",80.25862,6.589704512,shift R
+2024,06113,California,"Yolo County, CA",73.91121,13.78908443,shift R
+2024,08001,Colorado,"Adams County, CO",62.67099,7.213251673,shift R
+2024,08005,Colorado,"Arapahoe County, CO",67.36916,4.514679837,shift R
+2024,08013,Colorado,"Boulder County, CO",65.31922,1.522011845,shift R
+2024,08014,Colorado,"Broomfield County, CO",62.19273,-1.132317861,shift D
+2024,08015,Colorado,"Chaffee County, CO",69.47504,-6.735141723,shift D
+2024,08031,Colorado,"Denver County, CO",61.16904,5.545254402,shift R
+2024,08035,Colorado,"Douglas County, CO",69.61916,-0.003218337409,shift D
+2024,08037,Colorado,"Eagle County, CO",86.2878,5.126111613,shift R
+2024,08039,Colorado,"Elbert County, CO",58.08362,0.9091856554,shift R
+2024,08043,Colorado,"Fremont County, CO",65.07096,-1.720724768,shift D
+2024,08045,Colorado,"Garfield County, CO",88.629,0.6481015888,shift R
+2024,08049,Colorado,"Grand County, CO",81.11776,-1.006019222,shift D
+2024,08059,Colorado,"Jefferson County, CO",67.36071,-0.9130633023,shift D
+2024,08067,Colorado,"La Plata County, CO",83.64059,-1.059019997,shift D
+2024,08069,Colorado,"Larimer County, CO",64.72595,-2.150975286,shift D
+2024,08073,Colorado,"Lincoln County, CO",61.52831,1.802742796,shift R
+2024,08075,Colorado,"Logan County, CO",58.289,1.076400559,shift R
+2024,08077,Colorado,"Mesa County, CO",86.3461,-3.611631383,shift D
+2024,08085,Colorado,"Montrose County, CO",76.89742,-3.799541048,shift D
+2024,08087,Colorado,"Morgan County, CO",53.80856,6.362939384,shift R
+2024,08093,Colorado,"Park County, CO",72.15507,-0.8603552919,shift D
+2024,08101,Colorado,"Pueblo County, CO",67.09334,6.954641815,shift R
+2024,08107,Colorado,"Routt County, CO",82.53212,-0.05300379998,shift D
+2024,08117,Colorado,"Summit County, CO",77.61661,2.287839227,shift R
+2024,08123,Colorado,"Weld County, CO",64.78895,2.889814093,shift R
+2024,10001,Delaware,"Kent County, DE",76.23916,2.069905131,shift R
+2024,10003,Delaware,"New Castle County, DE",75.81028,4.527835678,shift R
+2024,12001,Florida,"Alachua County, FL",81.80017,6.199854562,shift R
+2024,12003,Florida,"Baker County, FL",62.50854,2.786849197,shift R
+2024,12005,Florida,"Bay County, FL",63.93836,3.89757754,shift R
+2024,12009,Florida,"Brevard County, FL",74.23901,4.298008664,shift R
+2024,12011,Florida,"Broward County, FL",61.73126,12.8289178,shift R
+2024,12015,Florida,"Charlotte County, FL",56.44701,7.556547654,shift R
+2024,12017,Florida,"Citrus County, FL",66.71165,4.783270086,shift R
+2024,12019,Florida,"Clay County, FL",51.2431,2.075024905,shift R
+2024,12021,Florida,"Collier County, FL",70.92143,8.271984978,shift R
+2024,12027,Florida,"DeSoto County, FL",52.42931,10.85260811,shift R
+2024,12031,Florida,"Duval County, FL",56.90848,5.275041586,shift R
+2024,12033,Florida,"Escambia County, FL",73.77637,4.330100531,shift R
+2024,12035,Florida,"Flagler County, FL",71.21615,7.442018346,shift R
+2024,12045,Florida,"Gulf County, FL",60.97558,3.520896327,shift R
+2024,12051,Florida,"Hendry County, FL",57.269,15.27661239,shift R
+2024,12053,Florida,"Hernando County, FL",80.21792,6.831003952,shift R
+2024,12055,Florida,"Highlands County, FL",64.40735,6.317918082,shift R
+2024,12057,Florida,"Hillsborough County, FL",68.16943,9.90465687,shift R
+2024,12061,Florida,"Indian River County, FL",64.87069,5.718019464,shift R
+2024,12063,Florida,"Jackson County, FL",62.79333,7.107519779,shift R
+2024,12069,Florida,"Lake County, FL",60.61451,4.600446409,shift R
+2024,12071,Florida,"Lee County, FL",62.86437,9.146195877,shift R
+2024,12073,Florida,"Leon County, FL",69.952,6.645564259,shift R
+2024,12081,Florida,"Manatee County, FL",57.93715,7.408535509,shift R
+2024,12083,Florida,"Marion County, FL",70.82824,5.753349379,shift R
+2024,12085,Florida,"Martin County, FL",62.30823,6.430602392,shift R
+2024,12086,Florida,"Miami-Dade County, FL",71.20493,18.74999422,shift R
+2024,12087,Florida,"Monroe County, FL",74.37461,10.34853655,shift R
+2024,12089,Florida,"Nassau County, FL",79.51803,0.8872106387,shift R
+2024,12091,Florida,"Okaloosa County, FL",63.34713,3.238191567,shift R
+2024,12093,Florida,"Okeechobee County, FL",57.97588,9.415685985,shift R
+2024,12095,Florida,"Orange County, FL",65.12484,9.461501659,shift R
+2024,12097,Florida,"Osceola County, FL",58.79733,15.2202431,shift R
+2024,12099,Florida,"Palm Beach County, FL",65.43165,12.01326176,shift R
+2024,12101,Florida,"Pasco County, FL",64.02731,5.044095836,shift R
+2024,12103,Florida,"Pinellas County, FL",60.70005,5.449709159,shift R
+2024,12105,Florida,"Polk County, FL",57.02963,6.214940793,shift R
+2024,12107,Florida,"Putnam County, FL",60.29132,6.605446752,shift R
+2024,12109,Florida,"St. Johns County, FL",57.56243,4.753732689,shift R
+2024,12111,Florida,"St. Lucie County, FL",63.07514,7.47144747,shift R
+2024,12113,Florida,"Santa Rosa County, FL",69.00209,4.268403429,shift R
+2024,12115,Florida,"Sarasota County, FL",57.67646,7.704642059,shift R
+2024,12117,Florida,"Seminole County, FL",66.50034,6.351325774,shift R
+2024,12119,Florida,"Sumter County, FL",51.87118,1.400751774,shift R
+2024,12123,Florida,"Taylor County, FL",60.00978,5.847932843,shift R
+2024,12127,Florida,"Volusia County, FL",62.80653,7.694655102,shift R
+2024,12129,Florida,"Wakulla County, FL",62.36912,3.389936775,shift R
+2024,12131,Florida,"Walton County, FL",68.02114,5.963511555,shift R
+2024,13013,Georgia,"Barrow County, GA",68.28994,-2.53763444,shift D
+2024,13015,Georgia,"Bartow County, GA",52.70787,0.2737432203,shift R
+2024,13021,Georgia,"Bibb County, GA",59.08381,1.436396848,shift R
+2024,13029,Georgia,"Bryan County, GA",72.36175,1.174655929,shift R
+2024,13031,Georgia,"Bulloch County, GA",83.24522,5.257921052,shift R
+2024,13035,Georgia,"Butts County, GA",59.16355,1.617233296,shift R
+2024,13039,Georgia,"Camden County, GA",84.87201,4.918801772,shift R
+2024,13045,Georgia,"Carroll County, GA",62.89412,2.126712831,shift R
+2024,13051,Georgia,"Chatham County, GA",85.13525,0.7588893382,shift R
+2024,13057,Georgia,"Cherokee County, GA",71.76047,-0.2021112385,shift D
+2024,13063,Georgia,"Clayton County, GA",65.78685,1.701352571,shift R
+2024,13067,Georgia,"Cobb County, GA",64.36279,-0.5601038848,shift D
+2024,13073,Georgia,"Columbia County, GA",80.89018,-0.1410117396,shift D
+2024,13077,Georgia,"Coweta County, GA",66.26327,-1.788562382,shift D
+2024,13085,Georgia,"Dawson County, GA",67.17195,-2.599076659,shift D
+2024,13089,Georgia,"DeKalb County, GA",58.26996,2.639463441,shift R
+2024,13097,Georgia,"Douglas County, GA",63.15261,-6.266418184,shift D
+2024,13103,Georgia,"Effingham County, GA",81.46516,-0.3378048069,shift D
+2024,13113,Georgia,"Fayette County, GA",67.05694,-3.25577865,shift D
+2024,13115,Georgia,"Floyd County, GA",63.93592,0.1059430625,shift R
+2024,13117,Georgia,"Forsyth County, GA",77.0012,-0.08368835791,shift D
+2024,13121,Georgia,"Fulton County, GA",56.4797,1.84494148,shift R
+2024,13127,Georgia,"Glynn County, GA",79.52207,2.800726436,shift R
+2024,13129,Georgia,"Gordon County, GA",66.18474,0.9375470859,shift R
+2024,13133,Georgia,"Greene County, GA",67.99359,2.456832994,shift R
+2024,13135,Georgia,"Gwinnett County, GA",76.00864,1.709134382,shift R
+2024,13137,Georgia,"Habersham County, GA",81.55633,0.7225559176,shift R
+2024,13139,Georgia,"Hall County, GA",69.04521,0.5361660796,shift R
+2024,13143,Georgia,"Haralson County, GA",53.76178,0.5511233096,shift R
+2024,13151,Georgia,"Henry County, GA",63.12431,-9.219733685,shift D
+2024,13153,Georgia,"Houston County, GA",71.84624,-1.14588794,shift D
+2024,13157,Georgia,"Jackson County, GA",62.49048,-2.929463453,shift D
+2024,13159,Georgia,"Jasper County, GA",59.91377,5.151945545,shift R
+2024,13171,Georgia,"Lamar County, GA",48.97413,4.806811945,shift R
+2024,13179,Georgia,"Liberty County, GA",78.41531,6.498970603,shift R
+2024,13185,Georgia,"Lowndes County, GA",72.80006,5.956367535,shift R
+2024,13199,Georgia,"Meriwether County, GA",60.29055,4.842046551,shift R
+2024,13207,Georgia,"Monroe County, GA",60.06527,3.86226269,shift R
+2024,13217,Georgia,"Newton County, GA",59.54813,-4.225742468,shift D
+2024,13223,Georgia,"Paulding County, GA",60.90681,-4.972352049,shift D
+2024,13227,Georgia,"Pickens County, GA",71.99345,-0.04197455765,shift D
+2024,13231,Georgia,"Pike County, GA",57.6349,2.216676166,shift R
+2024,13233,Georgia,"Polk County, GA",68.86599,3.445714695,shift R
+2024,13237,Georgia,"Putnam County, GA",71.13375,1.393903522,shift R
+2024,13245,Georgia,"Richmond County, GA",74.14268,1.053062855,shift R
+2024,13247,Georgia,"Rockdale County, GA",64.58097,-6.706392409,shift D
+2024,13255,Georgia,"Spalding County, GA",61.71009,-4.181019061,shift D
+2024,13275,Georgia,"Thomas County, GA",67.27211,4.677963287,shift R
+2024,13277,Georgia,"Tift County, GA",59.25223,2.116239937,shift R
+2024,13285,Georgia,"Troup County, GA",68.45854,2.471188942,shift R
+2024,13293,Georgia,"Upson County, GA",50.03882,5.595724439,shift R
+2024,13297,Georgia,"Walton County, GA",55.94954,-3.270540238,shift D
+2024,13311,Georgia,"White County, GA",77.90974,2.292191647,shift R
+2024,13313,Georgia,"Whitfield County, GA",76.06914,3.643232592,shift R
+2024,15001,Hawaii,"Hawaii County, HI",73.38649,8.018712083,shift R
+2024,15003,Hawaii,"Honolulu County, HI",63.95623,5.218404395,shift R
+2024,15007,Hawaii,"Kauai County, HI",73.85775,9.250511847,shift R
+2024,15009,Hawaii,"Maui County, HI",73.72823,9.574791417,shift R
+2024,16001,Idaho,"Ada County, ID",65.28657,6.423119443,shift R
+2024,16009,Idaho,"Benewah County, ID",70.1049,3.064611279,shift R
+2024,16015,Idaho,"Boise County, ID",66.01598,7.087786773,shift R
+2024,16017,Idaho,"Bonner County, ID",72.74181,9.361682932,shift R
+2024,16027,Idaho,"Canyon County, ID",62.37544,6.947963327,shift R
+2024,16039,Idaho,"Elmore County, ID",70.45593,3.021327406,shift R
+2024,16045,Idaho,"Gem County, ID",59.39539,4.007950759,shift R
+2024,16055,Idaho,"Kootenai County, ID",69.9752,8.86115681,shift R
+2024,16075,Idaho,"Payette County, ID",65.10063,3.536506872,shift R
+2024,16079,Idaho,"Shoshone County, ID",71.50479,7.687037643,shift R
+2024,16083,Idaho,"Twin Falls County, ID",84.43243,3.568689585,shift R
+2024,16087,Idaho,"Washington County, ID",65.62077,3.916879235,shift R
+2024,17007,Illinois,"Boone County, IL",70.03271,0.990664672,shift R
+2024,17019,Illinois,"Champaign County, IL",70.25445,-1.618724384,shift D
+2024,17021,Illinois,"Christian County, IL",57.04022,2.341857594,shift R
+2024,17027,Illinois,"Clinton County, IL",53.35928,0.8480622199,shift R
+2024,17029,Illinois,"Coles County, IL",60.07286,1.943031171,shift R
+2024,17037,Illinois,"DeKalb County, IL",75.05092,3.731042688,shift R
+2024,17043,Illinois,"DuPage County, IL",66.00387,4.18183667,shift R
+2024,17049,Illinois,"Effingham County, IL",55.72161,0.8723598967,shift R
+2024,17051,Illinois,"Fayette County, IL",52.8935,2.962326553,shift R
+2024,17053,Illinois,"Ford County, IL",49.63684,0.0187298856,shift R
+2024,17063,Illinois,"Grundy County, IL",56.02318,3.654791027,shift R
+2024,17073,Illinois,"Henry County, IL",53.80035,2.957065346,shift R
+2024,17075,Illinois,"Iroquois County, IL",35.22399,0.4442080868,shift R
+2024,17083,Illinois,"Jersey County, IL",49.71226,1.964655581,shift R
+2024,17089,Illinois,"Kane County, IL",64.37887,5.131405682,shift R
+2024,17091,Illinois,"Kankakee County, IL",61.99334,4.213264507,shift R
+2024,17093,Illinois,"Kendall County, IL",70.11297,3.335215746,shift R
+2024,17095,Illinois,"Knox County, IL",50.26771,3.807097554,shift R
+2024,17097,Illinois,"Lake County, IL",64.6128,2.835363162,shift R
+2024,17099,Illinois,"LaSalle County, IL",55.92785,4.312988269,shift R
+2024,17103,Illinois,"Lee County, IL",54.90551,2.764771954,shift R
+2024,17105,Illinois,"Livingston County, IL",50.39704,2.174802991,shift R
+2024,17111,Illinois,"McHenry County, IL",66.47263,4.04188632,shift R
+2024,17115,Illinois,"Macon County, IL",58.59906,1.164225656,shift R
+2024,17119,Illinois,"Madison County, IL",59.57211,-0.2316456481,shift D
+2024,17133,Illinois,"Monroe County, IL",59.94874,0.3490047038,shift R
+2024,17135,Illinois,"Montgomery County, IL",40.74677,3.1902081,shift R
+2024,17143,Illinois,"Peoria County, IL",79.48875,1.455046566,shift R
+2024,17157,Illinois,"Randolph County, IL",46.49471,-0.354843715,shift D
+2024,17161,Illinois,"Rock Island County, IL",57.04774,2.508433784,shift R
+2024,17163,Illinois,"St. Clair County, IL",57.90306,2.678936885,shift R
+2024,17167,Illinois,"Sangamon County, IL",61.68642,0.6382283541,shift R
+2024,17177,Illinois,"Stephenson County, IL",57.13932,3.14912607,shift R
+2024,17179,Illinois,"Tazewell County, IL",60.30345,0.9506156572,shift R
+2024,17183,Illinois,"Vermilion County, IL",53.19671,2.861629718,shift R
+2024,17197,Illinois,"Will County, IL",61.71658,6.694008978,shift R
+2024,17201,Illinois,"Winnebago County, IL",70.7347,-1.747378167,shift D
+2024,17203,Illinois,"Woodford County, IL",67.72599,0.9675221624,shift R
+2024,18003,Indiana,"Allen County, IN",74.4852,1.182864211,shift R
+2024,18005,Indiana,"Bartholomew County, IN",68.4961,1.224146614,shift R
+2024,18011,Indiana,"Boone County, IN",56.63121,-2.406715098,shift D
+2024,18013,Indiana,"Brown County, IN",65.86073,1.886352493,shift R
+2024,18017,Indiana,"Cass County, IN",62.86566,5.004554323,shift R
+2024,18019,Indiana,"Clark County, IN",69.95857,2.150566115,shift R
+2024,18029,Indiana,"Dearborn County, IN",70.44609,2.896512323,shift R
+2024,18031,Indiana,"Decatur County, IN",58.60604,0.4816687776,shift R
+2024,18035,Indiana,"Delaware County, IN",65.39439,2.48556594,shift R
+2024,18039,Indiana,"Elkhart County, IN",81.63241,4.228928328,shift R
+2024,18043,Indiana,"Floyd County, IN",71.27011,1.417761136,shift R
+2024,18047,Indiana,"Franklin County, IN",59.18034,1.536838004,shift R
+2024,18053,Indiana,"Grant County, IN",61.46936,3.202331293,shift R
+2024,18057,Indiana,"Hamilton County, IN",68.81987,-0.7118086388,shift D
+2024,18059,Indiana,"Hancock County, IN",65.37002,-3.765687355,shift D
+2024,18063,Indiana,"Hendricks County, IN",69.00547,-2.49819602,shift D
+2024,18067,Indiana,"Howard County, IN",65.35874,2.710852187,shift R
+2024,18079,Indiana,"Jennings County, IN",55.12061,2.032586877,shift R
+2024,18081,Indiana,"Johnson County, IN",71.88423,0.2746652831,shift R
+2024,18085,Indiana,"Kosciusko County, IN",73.67371,1.652530052,shift R
+2024,18089,Indiana,"Lake County, IN",77.87896,9.388159196,shift R
+2024,18091,Indiana,"LaPorte County, IN",66.88655,7.101020125,shift R
+2024,18093,Indiana,"Lawrence County, IN",63.90731,0.5227334312,shift R
+2024,18095,Indiana,"Madison County, IN",56.12436,4.332899303,shift R
+2024,18097,Indiana,"Marion County, IN",67.16288,1.535351583,shift R
+2024,18103,Indiana,"Miami County, IN",54.01848,1.486657406,shift R
+2024,18105,Indiana,"Monroe County, IN",71.58387,0.8685668849,shift R
+2024,18107,Indiana,"Montgomery County, IN",66.74601,-0.923716117,shift D
+2024,18109,Indiana,"Morgan County, IN",59.70402,-0.1588219381,shift D
+2024,18113,Indiana,"Noble County, IN",65.2377,1.779858369,shift R
+2024,18127,Indiana,"Porter County, IN",76.26582,4.268920872,shift R
+2024,18137,Indiana,"Ripley County, IN",61.8411,2.052210206,shift R
+2024,18139,Indiana,"Rush County, IN",55.51733,0.1055890834,shift R
+2024,18141,Indiana,"St. Joseph County, IN",70.94688,4.3534758,shift R
+2024,18145,Indiana,"Shelby County, IN",65.21284,0.3209990451,shift R
+2024,18157,Indiana,"Tippecanoe County, IN",88.22235,0.7421379278,shift R
+2024,18159,Indiana,"Tipton County, IN",64.95205,-1.819225525,shift D
+2024,18163,Indiana,"Vanderburgh County, IN",66.09587,3.095945551,shift R
+2024,18173,Indiana,"Warrick County, IN",67.86475,2.420586745,shift R
+2024,18177,Indiana,"Wayne County, IN",56.9741,3.346570641,shift R
+2024,19013,Iowa,"Black Hawk County, IA",65.9025,7.857215161,shift R
+2024,19049,Iowa,"Dallas County, IA",63.95441,2.742588021,shift R
+2024,19057,Iowa,"Des Moines County, IA",60.47025,6.472111997,shift R
+2024,19059,Iowa,"Dickinson County, IA",68.14763,6.228010281,shift R
+2024,19099,Iowa,"Jasper County, IA",60.07315,5.997325845,shift R
+2024,19101,Iowa,"Jefferson County, IA",55.21276,5.339861962,shift R
+2024,19103,Iowa,"Johnson County, IA",75.00408,5.570468471,shift R
+2024,19113,Iowa,"Linn County, IA",71.20484,3.836645769,shift R
+2024,19121,Iowa,"Madison County, IA",47.11478,4.118050079,shift R
+2024,19123,Iowa,"Mahaska County, IA",58.03391,4.060355115,shift R
+2024,19125,Iowa,"Marion County, IA",58.43112,3.86481433,shift R
+2024,19129,Iowa,"Mills County, IA",64.28281,1.705622264,shift R
+2024,19153,Iowa,"Polk County, IA",66.80891,4.408982819,shift R
+2024,19155,Iowa,"Pottawattamie County, IA",70.60894,3.126013273,shift R
+2024,19163,Iowa,"Scott County, IA",63.11127,7.365395072,shift R
+2024,19169,Iowa,"Story County, IA",71.79838,7.021001743,shift R
+2024,19179,Iowa,"Wapello County, IA",51.1196,7.779004046,shift R
+2024,19181,Iowa,"Warren County, IA",59.53273,3.848111664,shift R
+2024,19183,Iowa,"Washington County, IA",61.80326,3.87136341,shift R
+2024,19193,Iowa,"Woodbury County, IA",65.95185,7.321397207,shift R
+2024,20045,Kansas,"Douglas County, KS",76.57632,1.037760893,shift R
+2024,20059,Kansas,"Franklin County, KS",58.93868,1.435113765,shift R
+2024,20155,Kansas,"Reno County, KS",58.43431,0.1905147557,shift R
+2024,20169,Kansas,"Saline County, KS",63.51937,1.144171092,shift R
+2024,20173,Kansas,"Sedgwick County, KS",79.56526,1.434757125,shift R
+2024,21005,Kentucky,"Anderson County, KY",59.45072,1.458671598,shift R
+2024,21015,Kentucky,"Boone County, KY",74.82475,1.435519593,shift R
+2024,21017,Kentucky,"Bourbon County, KY",65.61742,3.500179214,shift R
+2024,21029,Kentucky,"Bullitt County, KY",65.17282,2.950040481,shift R
+2024,21035,Kentucky,"Calloway County, KY",67.93619,6.094695636,shift R
+2024,21037,Kentucky,"Campbell County, KY",75.78154,0.9973937902,shift R
+2024,21047,Kentucky,"Christian County, KY",72.98022,5.150489377,shift R
+2024,21049,Kentucky,"Clark County, KY",66.24905,3.253234354,shift R
+2024,21059,Kentucky,"Daviess County, KY",68.59082,4.012964274,shift R
+2024,21065,Kentucky,"Estill County, KY",51.9498,5.96434805,shift R
+2024,21067,Kentucky,"Fayette County, KY",70.99167,3.575287089,shift R
+2024,21073,Kentucky,"Franklin County, KY",70.7741,3.89255797,shift R
+2024,21079,Kentucky,"Garrard County, KY",67.1227,3.610212744,shift R
+2024,21083,Kentucky,"Graves County, KY",55.61677,4.909077387,shift R
+2024,21093,Kentucky,"Hardin County, KY",82.23636,5.355225515,shift R
+2024,21097,Kentucky,"Harrison County, KY",60.2741,4.066079972,shift R
+2024,21107,Kentucky,"Hopkins County, KY",62.26415,2.717969399,shift R
+2024,21111,Kentucky,"Jefferson County, KY",65.49288,3.59081806,shift R
+2024,21113,Kentucky,"Jessamine County, KY",66.71,3.301452395,shift R
+2024,21117,Kentucky,"Kenton County, KY",73.45861,2.428096039,shift R
+2024,21121,Kentucky,"Knox County, KY",62.13625,4.107853252,shift R
+2024,21125,Kentucky,"Laurel County, KY",52.294,3.081056613,shift R
+2024,21145,Kentucky,"McCracken County, KY",62.76847,3.246320607,shift R
+2024,21151,Kentucky,"Madison County, KY",51.96372,4.055092577,shift R
+2024,21157,Kentucky,"Marshall County, KY",60.18544,4.287396639,shift R
+2024,21167,Kentucky,"Mercer County, KY",62.36947,3.889120045,shift R
+2024,21173,Kentucky,"Montgomery County, KY",61.4534,4.809955759,shift R
+2024,21185,Kentucky,"Oldham County, KY",64.96715,1.091747547,shift R
+2024,21197,Kentucky,"Powell County, KY",59.70533,5.866274893,shift R
+2024,21199,Kentucky,"Pulaski County, KY",72.03117,2.517199544,shift R
+2024,21205,Kentucky,"Rowan County, KY",59.7343,6.734361145,shift R
+2024,21209,Kentucky,"Scott County, KY",70.03367,2.829490009,shift R
+2024,21211,Kentucky,"Shelby County, KY",63.2618,5.022233454,shift R
+2024,21215,Kentucky,"Spencer County, KY",56.51152,2.415525271,shift R
+2024,21227,Kentucky,"Warren County, KY",69.48966,7.426288157,shift R
+2024,21235,Kentucky,"Whitley County, KY",58.52591,4.000733118,shift R
+2024,21239,Kentucky,"Woodford County, KY",61.3778,2.209402628,shift R
+2024,22009,Louisiana,"Avoyelles Parish, LA",51.43354,2.379464164,shift R
+2024,22011,Louisiana,"Beauregard Parish, LA",43.5187,3.809937691,shift R
+2024,22019,Louisiana,"Calcasieu Parish, LA",45.22225,4.404363774,shift R
+2024,22051,Louisiana,"Jefferson Parish, LA",52.65127,1.867520022,shift R
+2024,22055,Louisiana,"Lafayette Parish, LA",71.29279,2.689663301,shift R
+2024,22057,Louisiana,"Lafourche Parish, LA",63.37376,1.81463074,shift R
+2024,22071,Louisiana,"Orleans Parish, LA",46.572,1.145465311,shift R
+2024,22075,Louisiana,"Plaquemines Parish, LA",46.17639,1.709794281,shift R
+2024,22079,Louisiana,"Rapides Parish, LA",47.48098,4.711435419,shift R
+2024,22087,Louisiana,"St. Bernard Parish, LA",55.19969,0.8095325157,shift R
+2024,22089,Louisiana,"St. Charles Parish, LA",45.56441,2.772179146,shift R
+2024,22095,Louisiana,"St. John the Baptist Parish, LA",49.5851,-0.9381812945,shift D
+2024,22097,Louisiana,"St. Landry Parish, LA",60.20662,4.749291356,shift R
+2024,22101,Louisiana,"St. Mary Parish, LA",54.55889,2.73233034,shift R
+2024,22103,Louisiana,"St. Tammany Parish, LA",61.98143,-0.4026579582,shift D
+2024,22105,Louisiana,"Tangipahoa Parish, LA",61.33441,4.598523858,shift R
+2024,22109,Louisiana,"Terrebonne Parish, LA",53.26439,1.768169115,shift R
+2024,22117,Louisiana,"Washington Parish, LA",51.22619,2.686611068,shift R
+2024,23001,Maine,"Androscoggin County, ME",79.5505,3.070845082,shift R
+2024,23003,Maine,"Aroostook County, ME",57.59668,6.009314289,shift R
+2024,23005,Maine,"Cumberland County, ME",78.74304,2.294289071,shift R
+2024,23007,Maine,"Franklin County, ME",73.62839,5.982053626,shift R
+2024,23009,Maine,"Hancock County, ME",76.99757,1.748756696,shift R
+2024,23011,Maine,"Kennebec County, ME",77.21629,2.361087535,shift R
+2024,23013,Maine,"Knox County, ME",74.71931,1.386837045,shift R
+2024,23015,Maine,"Lincoln County, ME",73.93746,-1.57470338,shift D
+2024,23017,Maine,"Oxford County, ME",76.52902,3.605547609,shift R
+2024,23019,Maine,"Penobscot County, ME",71.9267,2.968156052,shift R
+2024,23021,Maine,"Piscataquis County, ME",62.55458,2.320743469,shift R
+2024,23023,Maine,"Sagadahoc County, ME",76.73836,-0.3991421848,shift D
+2024,23025,Maine,"Somerset County, ME",64.89175,4.909980972,shift R
+2024,23027,Maine,"Waldo County, ME",71.47244,0.8879776888,shift R
+2024,23029,Maine,"Washington County, ME",67.95377,4.274584837,shift R
+2024,23031,Maine,"York County, ME",79.75411,4.70100966,shift R
+2024,24001,Maryland,"Allegany County, MD",53.45252,-0.04430068186,shift D
+2024,24003,Maryland,"Anne Arundel County, MD",75.05141,-1.731146023,shift D
+2024,24005,Maryland,"Baltimore County, MD",75.34542,-1.698009412,shift D
+2024,24009,Maryland,"Calvert County, MD",66.89342,5.453204981,shift R
+2024,24011,Maryland,"Caroline County, MD",64.14154,3.47463797,shift R
+2024,24013,Maryland,"Carroll County, MD",73.85904,0.78677773,shift R
+2024,24015,Maryland,"Cecil County, MD",77.81229,4.770992746,shift R
+2024,24017,Maryland,"Charles County, MD",70.37824,-0.8741779782,shift D
+2024,24019,Maryland,"Dorchester County, MD",65.58698,-3.940777179,shift D
+2024,24021,Maryland,"Frederick County, MD",73.298,0.331930787,shift R
+2024,24023,Maryland,"Garrett County, MD",68.1401,-2.911691723,shift D
+2024,24025,Maryland,"Harford County, MD",68.5378,0.3893815193,shift R
+2024,24027,Maryland,"Howard County, MD",72.70916,2.797059061,shift R
+2024,24029,Maryland,"Kent County, MD",66.44011,4.379812436,shift R
+2024,24031,Maryland,"Montgomery County, MD",72.19154,5.995384915,shift R
+2024,24033,Maryland,"Prince George's County, MD",74.95558,5.567570844,shift R
+2024,24035,Maryland,"Queen Anne's County, MD",74.7299,0.4020070202,shift R
+2024,24037,Maryland,"St. Mary's County, MD",66.30263,2.907997861,shift R
+2024,24041,Maryland,"Talbot County, MD",72.61589,0.7214066806,shift R
+2024,24043,Maryland,"Washington County, MD",67.64458,1.225486977,shift R
+2024,24510,Maryland,"Baltimore city, MD",65.581,4.153127832,shift R
+2024,25001,Massachusetts,"Barnstable County, MA",84.3908,4.432025107,shift R
+2024,25003,Massachusetts,"Berkshire County, MA",74.79478,9.175594873,shift R
+2024,25005,Massachusetts,"Bristol County, MA",82.36331,11.81746648,shift R
+2024,25007,Massachusetts,"Dukes County, MA",70.57023,4.364858711,shift R
+2024,25009,Massachusetts,"Essex County, MA",78.10307,9.617733469,shift R
+2024,25013,Massachusetts,"Hampden County, MA",82.4,9.877565169,shift R
+2024,25017,Massachusetts,"Middlesex County, MA",73.79308,6.948509834,shift R
+2024,25021,Massachusetts,"Norfolk County, MA",76.02161,8.658146545,shift R
+2024,25023,Massachusetts,"Plymouth County, MA",82.01646,3.65145659,shift R
+2024,25025,Massachusetts,"Suffolk County, MA",64.25739,12.4979556,shift R
+2024,25027,Massachusetts,"Worcester County, MA",78.1642,8.333416657,shift R
+2024,26005,Michigan,"Allegan County, MI",70.97374,3.431829022,shift R
+2024,26007,Michigan,"Alpena County, MI",68.35511,1.015387985,shift R
+2024,26015,Michigan,"Barry County, MI",72.07651,1.782831996,shift R
+2024,26017,Michigan,"Bay County, MI",64.51912,3.718093502,shift R
+2024,26021,Michigan,"Berrien County, MI",68.19432,0.5134993962,shift R
+2024,26023,Michigan,"Branch County, MI",61.16338,3.82446153,shift R
+2024,26025,Michigan,"Calhoun County, MI",62.74235,2.625171967,shift R
+2024,26027,Michigan,"Cass County, MI",64.55489,5.02605646,shift R
+2024,26031,Michigan,"Cheboygan County, MI",67.32877,1.170492163,shift R
+2024,26033,Michigan,"Chippewa County, MI",54.39914,1.410657095,shift R
+2024,26035,Michigan,"Clare County, MI",63.20126,2.732692982,shift R
+2024,26037,Michigan,"Clinton County, MI",69.51992,2.088795644,shift R
+2024,26041,Michigan,"Delta County, MI",64.80416,3.878494513,shift R
+2024,26045,Michigan,"Eaton County, MI",68.83849,2.377163068,shift R
+2024,26049,Michigan,"Genesee County, MI",58.2314,5.185755583,shift R
+2024,26053,Michigan,"Gogebic County, MI",51.42722,4.650689103,shift R
+2024,26055,Michigan,"Grand Traverse County, MI",75.35305,-1.298223968,shift D
+2024,26057,Michigan,"Gratiot County, MI",60.70141,3.037182189,shift R
+2024,26059,Michigan,"Hillsdale County, MI",59.01333,3.481564984,shift R
+2024,26061,Michigan,"Houghton County, MI",58.99848,2.912959355,shift R
+2024,26065,Michigan,"Ingham County, MI",65.7463,2.542634686,shift R
+2024,26067,Michigan,"Ionia County, MI",62.44843,1.567898795,shift R
+2024,26073,Michigan,"Isabella County, MI",68.74631,4.950409869,shift R
+2024,26075,Michigan,"Jackson County, MI",63.21055,2.291700615,shift R
+2024,26077,Michigan,"Kalamazoo County, MI",66.35541,1.045637639,shift R
+2024,26081,Michigan,"Kent County, MI",76.58874,0.61848741,shift R
+2024,26085,Michigan,"Lake County, MI",59.83,5.954786105,shift R
+2024,26087,Michigan,"Lapeer County, MI",67.60873,2.943488848,shift R
+2024,26091,Michigan,"Lenawee County, MI",61.72412,3.14244024,shift R
+2024,26093,Michigan,"Livingston County, MI",71.64344,1.288212176,shift R
+2024,26099,Michigan,"Macomb County, MI",66.14542,5.818912749,shift R
+2024,26101,Michigan,"Manistee County, MI",63.7882,0.8087457827,shift R
+2024,26103,Michigan,"Marquette County, MI",69.88871,2.403146891,shift R
+2024,26105,Michigan,"Mason County, MI",63.68289,1.606548887,shift R
+2024,26115,Michigan,"Monroe County, MI",69.71215,4.4729983,shift R
+2024,26117,Michigan,"Montcalm County, MI",63.17427,1.249927422,shift R
+2024,26121,Michigan,"Muskegon County, MI",68.78784,2.710747108,shift R
+2024,26123,Michigan,"Newaygo County, MI",71.15288,2.295093993,shift R
+2024,26125,Michigan,"Oakland County, MI",67.31765,3.458315274,shift R
+2024,26127,Michigan,"Oceana County, MI",66.604,1.958211279,shift R
+2024,26139,Michigan,"Ottawa County, MI",75.48515,-1.297526187,shift D
+2024,26145,Michigan,"Saginaw County, MI",58.00575,3.571796723,shift R
+2024,26147,Michigan,"St. Clair County, MI",67.23559,4.393459492,shift R
+2024,26149,Michigan,"St. Joseph County, MI",64.34955,2.222255761,shift R
+2024,26151,Michigan,"Sanilac County, MI",57.42265,2.0912869,shift R
+2024,26155,Michigan,"Shiawassee County, MI",73.35138,3.197032571,shift R
+2024,26157,Michigan,"Tuscola County, MI",55.1389,3.643639225,shift R
+2024,26159,Michigan,"Van Buren County, MI",70.78891,2.880763569,shift R
+2024,26161,Michigan,"Washtenaw County, MI",72.54412,2.275052773,shift R
+2024,26163,Michigan,"Wayne County, MI",56.59408,8.547196063,shift R
+2024,26165,Michigan,"Wexford County, MI",65.21247,0.3488131591,shift R
+2024,27001,Minnesota,"Aitkin County, MN",67.89842,4.392767229,shift R
+2024,27003,Minnesota,"Anoka County, MN",67.63803,2.539612505,shift R
+2024,27005,Minnesota,"Becker County, MN",72.79227,3.037590929,shift R
+2024,27007,Minnesota,"Beltrami County, MN",62.74197,2.502157115,shift R
+2024,27009,Minnesota,"Benton County, MN",65.90601,3.958802929,shift R
+2024,27019,Minnesota,"Carver County, MN",66.44976,0.4990217428,shift R
+2024,27021,Minnesota,"Cass County, MN",73.51245,4.522079528,shift R
+2024,27025,Minnesota,"Chisago County, MN",70.35465,2.121822971,shift R
+2024,27035,Minnesota,"Crow Wing County, MN",70.38983,1.641350398,shift R
+2024,27037,Minnesota,"Dakota County, MN",62.97743,1.045550483,shift R
+2024,27039,Minnesota,"Dodge County, MN",54.77193,1.584084071,shift R
+2024,27041,Minnesota,"Douglas County, MN",74.01872,2.243878566,shift R
+2024,27045,Minnesota,"Fillmore County, MN",53.39485,2.788383974,shift R
+2024,27047,Minnesota,"Freeborn County, MN",54.47856,5.332158454,shift R
+2024,27049,Minnesota,"Goodhue County, MN",63.3081,1.557426927,shift R
+2024,27053,Minnesota,"Hennepin County, MN",59.86178,0.689625382,shift R
+2024,27055,Minnesota,"Houston County, MN",57.71766,3.531463079,shift R
+2024,27057,Minnesota,"Hubbard County, MN",64.68572,2.55688439,shift R
+2024,27059,Minnesota,"Isanti County, MN",72.71342,2.484913434,shift R
+2024,27061,Minnesota,"Itasca County, MN",69.08546,3.311926011,shift R
+2024,27065,Minnesota,"Kanabec County, MN",61.76986,4.412228315,shift R
+2024,27067,Minnesota,"Kandiyohi County, MN",68.89145,5.290285557,shift R
+2024,27079,Minnesota,"Le Sueur County, MN",61.4576,3.170472656,shift R
+2024,27085,Minnesota,"McLeod County, MN",62.70855,1.746985599,shift R
+2024,27091,Minnesota,"Martin County, MN",54.64903,1.87816997,shift R
+2024,27093,Minnesota,"Meeker County, MN",56.06695,2.147221578,shift R
+2024,27095,Minnesota,"Mille Lacs County, MN",63.76639,3.025387411,shift R
+2024,27097,Minnesota,"Morrison County, MN",65.29174,2.5010308,shift R
+2024,27099,Minnesota,"Mower County, MN",59.28603,4.989114477,shift R
+2024,27109,Minnesota,"Olmsted County, MN",66.35234,0.09448772337,shift R
+2024,27111,Minnesota,"Otter Tail County, MN",69.5538,1.62009733,shift R
+2024,27115,Minnesota,"Pine County, MN",62.99993,4.914504601,shift R
+2024,27121,Minnesota,"Pope County, MN",58.54434,4.124363636,shift R
+2024,27123,Minnesota,"Ramsey County, MN",61.34744,2.190611764,shift R
+2024,27129,Minnesota,"Renville County, MN",54.97958,4.833364822,shift R
+2024,27131,Minnesota,"Rice County, MN",66.94825,2.339438721,shift R
+2024,27139,Minnesota,"Scott County, MN",62.79783,1.837253484,shift R
+2024,27141,Minnesota,"Sherburne County, MN",69.39089,2.174471335,shift R
+2024,27143,Minnesota,"Sibley County, MN",56.99751,2.245292244,shift R
+2024,27145,Minnesota,"Stearns County, MN",67.97731,4.214843739,shift R
+2024,27147,Minnesota,"Steele County, MN",63.71341,1.964246208,shift R
+2024,27153,Minnesota,"Todd County, MN",55.50722,4.673183596,shift R
+2024,27157,Minnesota,"Wabasha County, MN",64.31062,1.748842447,shift R
+2024,27159,Minnesota,"Wadena County, MN",59.09853,5.823805831,shift R
+2024,27161,Minnesota,"Waseca County, MN",59.89714,2.316377928,shift R
+2024,27163,Minnesota,"Washington County, MN",62.4,0.3415444427,shift R
+2024,27169,Minnesota,"Winona County, MN",68.12488,5.307169146,shift R
+2024,27171,Minnesota,"Wright County, MN",60.19749,3.10551093,shift R
+2024,28033,Mississippi,"DeSoto County, MS",73.18239,0.1343762222,shift R
+2024,28047,Mississippi,"Harrison County, MS",79.48565,-8.402681323,shift D
+2024,28049,Mississippi,"Hinds County, MS",65.34714,-1.497897602,shift D
+2024,28059,Mississippi,"Jackson County, MS",77.1306,-5.127224533,shift D
+2024,28121,Mississippi,"Rankin County, MS",79.67462,-1.128612923,shift D
+2024,29021,Missouri,"Buchanan County, MO",64.24701,3.485124604,shift R
+2024,29055,Missouri,"Crawford County, MO",62.82761,1.937113972,shift R
+2024,29063,Missouri,"DeKalb County, MO",52.09839,2.783649097,shift R
+2024,29071,Missouri,"Franklin County, MO",69.55264,2.237096831,shift R
+2024,29073,Missouri,"Gasconade County, MO",56.07342,1.969628106,shift R
+2024,29099,Missouri,"Jefferson County, MO",72.77232,2.953696689,shift R
+2024,29101,Missouri,"Johnson County, MO",69.68828,2.666584275,shift R
+2024,29113,Missouri,"Lincoln County, MO",66.50838,3.356802208,shift R
+2024,29139,Missouri,"Montgomery County, MO",52.78753,3.817542105,shift R
+2024,29161,Missouri,"Phelps County, MO",67.54322,2.844167495,shift R
+2024,29163,Missouri,"Pike County, MO",50.89549,4.082705163,shift R
+2024,29169,Missouri,"Pulaski County, MO",75.32162,4.55644603,shift R
+2024,29183,Missouri,"St. Charles County, MO",72.92694,-0.5388362629,shift D
+2024,29186,Missouri,"Ste. Genevieve County, MO",67.81775,3.693558608,shift R
+2024,29187,Missouri,"St. Francois County, MO",69.37309,3.319957069,shift R
+2024,29189,Missouri,"St. Louis County, MO",62.95965,0.4582375875,shift R
+2024,29217,Missouri,"Vernon County, MO",58.59346,2.385410506,shift R
+2024,29219,Missouri,"Warren County, MO",68.68914,3.521770894,shift R
+2024,29510,Missouri,"St. Louis city, MO",63.61226,1.432095829,shift R
+2024,31025,Nebraska,"Cass County, NE",49.08701,2.186951852,shift R
+2024,31053,Nebraska,"Dodge County, NE",54.41898,0.2660694179,shift R
+2024,31055,Nebraska,"Douglas County, NE",67.11078,1.233416701,shift R
+2024,31109,Nebraska,"Lancaster County, NE",69.46688,3.754119572,shift R
+2024,31153,Nebraska,"Sarpy County, NE",63.17917,0.5879601455,shift R
+2024,31155,Nebraska,"Saunders County, NE",56.39415,1.004407893,shift R
+2024,31177,Nebraska,"Washington County, NE",56.47274,1.600932273,shift R
+2024,32001,Nevada,"Churchill County, NV",66.94738,1.269032913,shift R
+2024,32003,Nevada,"Clark County, NV",74.16648,7.42250714,shift R
+2024,32005,Nevada,"Douglas County, NV",66.34297,3.499238619,shift R
+2024,32013,Nevada,"Humboldt County, NV",62.08077,1.444927864,shift R
+2024,32019,Nevada,"Lyon County, NV",70.5754,3.503989625,shift R
+2024,32023,Nevada,"Nye County, NV",68.93488,2.109654404,shift R
+2024,32029,Nevada,"Storey County, NV",56.89111429,3.858309147,shift R
+2024,32031,Nevada,"Washoe County, NV",72.70225,3.639511474,shift R
+2024,32510,Nevada,"Carson City, NV",70.54081,-0.02284264208,shift D
+2024,33001,New Hampshire,"Belknap County, NH",82.83576,2.426686254,shift R
+2024,33003,New Hampshire,"Carroll County, NH",74.84345,3.26348211,shift R
+2024,33005,New Hampshire,"Cheshire County, NH",76.73752,7.647585317,shift R
+2024,33007,New Hampshire,"Coos County, NH",70.98635,7.660155876,shift R
+2024,33009,New Hampshire,"Grafton County, NH",76.70487,5.169707643,shift R
+2024,33011,New Hampshire,"Hillsborough County, NH",84.82232,4.940796201,shift R
+2024,33013,New Hampshire,"Merrimack County, NH",80.44138,4.816030216,shift R
+2024,33015,New Hampshire,"Rockingham County, NH",84.92096,4.583429048,shift R
+2024,33017,New Hampshire,"Strafford County, NH",81.90886,3.540924793,shift R
+2024,33019,New Hampshire,"Sullivan County, NH",77.34291,4.350671214,shift R
+2024,34001,New Jersey,"Atlantic County, NJ",81.80656,9.957236066,shift R
+2024,34003,New Jersey,"Bergen County, NJ",79.5879,13.63711071,shift R
+2024,34005,New Jersey,"Burlington County, NJ",79.45059,3.833854701,shift R
+2024,34007,New Jersey,"Camden County, NJ",84.11987,6.349457907,shift R
+2024,34009,New Jersey,"Cape May County, NJ",83.69085,3.146680344,shift R
+2024,34011,New Jersey,"Cumberland County, NJ",82.6,8.653090253,shift R
+2024,34013,New Jersey,"Essex County, NJ",83.70619,10.59343933,shift R
+2024,34015,New Jersey,"Gloucester County, NJ",83.20611,4.828333685,shift R
+2024,34017,New Jersey,"Hudson County, NJ",78.87879,20.56787272,shift R
+2024,34019,New Jersey,"Hunterdon County, NJ",75.81359,3.942338725,shift R
+2024,34021,New Jersey,"Mercer County, NJ",76.73892,6.628425637,shift R
+2024,34023,New Jersey,"Middlesex County, NJ",78.70902,17.2445791,shift R
+2024,34025,New Jersey,"Monmouth County, NJ",85.19824,8.757466295,shift R
+2024,34027,New Jersey,"Morris County, NJ",81.06151,12.34263183,shift R
+2024,34029,New Jersey,"Ocean County, NJ",87.51251,7.918743829,shift R
+2024,34031,New Jersey,"Passaic County, NJ",85.59292,19.6077662,shift R
+2024,34033,New Jersey,"Salem County, NJ",77.53735,6.255825122,shift R
+2024,34035,New Jersey,"Somerset County, NJ",74.5803,7.985191946,shift R
+2024,34037,New Jersey,"Sussex County, NJ",77.03479,5.794808123,shift R
+2024,34039,New Jersey,"Union County, NJ",86.79823,14.27225871,shift R
+2024,34041,New Jersey,"Warren County, NJ",78.89608,6.801502229,shift R
+2024,35013,New Mexico,"Dona Ana County, NM",80.03801,8.577136212,shift R
+2024,35028,New Mexico,"Los Alamos County, NM",72.00248,-3.538592528,shift D
+2024,35049,New Mexico,"Santa Fe County, NM",73.3618,4.877466833,shift R
+2024,36001,New York,"Albany County, NY",70.54915,5.872173152,shift R
+2024,36003,New York,"Allegany County, NY",51.66965,4.760864019,shift R
+2024,36005,New York,"Bronx County, NY",74.18258,22.03939429,shift R
+2024,36009,New York,"Cattaraugus County, NY",65.64581,3.98979565,shift R
+2024,36011,New York,"Cayuga County, NY",64.18919,4.28522103,shift R
+2024,36013,New York,"Chautauqua County, NY",58.83822,2.559444094,shift R
+2024,36015,New York,"Chemung County, NY",59.13744,3.774148939,shift R
+2024,36027,New York,"Dutchess County, NY",80.36551,5.240766817,shift R
+2024,36029,New York,"Erie County, NY",69.39688,5.277971245,shift R
+2024,36035,New York,"Fulton County, NY",53.18093,4.696225125,shift R
+2024,36037,New York,"Genesee County, NY",64.93301,2.595182786,shift R
+2024,36045,New York,"Jefferson County, NY",68.30696,4.861832627,shift R
+2024,36047,New York,"Kings County, NY",80.10777,11.68063787,shift R
+2024,36051,New York,"Livingston County, NY",64.13536,3.105449368,shift R
+2024,36053,New York,"Madison County, NY",66.98813,3.162130253,shift R
+2024,36055,New York,"Monroe County, NY",62.57609,3.020591264,shift R
+2024,36057,New York,"Montgomery County, NY",63.02351,6.871573115,shift R
+2024,36059,New York,"Nassau County, NY",78.5332,13.77189316,shift R
+2024,36061,New York,"New York County, NY",82.3843,10.96511655,shift R
+2024,36063,New York,"Niagara County, NY",60.28659,5.847349481,shift R
+2024,36065,New York,"Oneida County, NY",69.91036,5.599424066,shift R
+2024,36067,New York,"Onondaga County, NY",70.11596,3.11858741,shift R
+2024,36069,New York,"Ontario County, NY",69.19155,1.390978314,shift R
+2024,36071,New York,"Orange County, NY",83.95799,8.89109036,shift R
+2024,36073,New York,"Orleans County, NY",58.35926,4.503449614,shift R
+2024,36075,New York,"Oswego County, NY",65.49718,3.974340208,shift R
+2024,36079,New York,"Putnam County, NY",71.41389,5.862110799,shift R
+2024,36081,New York,"Queens County, NY",66.42616,21.27345059,shift R
+2024,36083,New York,"Rensselaer County, NY",64.67035,4.660801123,shift R
+2024,36085,New York,"Richmond County, NY",72.99256,15.7658967,shift R
+2024,36087,New York,"Rockland County, NY",83.63017,13.94793064,shift R
+2024,36091,New York,"Saratoga County, NY",79.11706,4.166096344,shift R
+2024,36093,New York,"Schenectady County, NY",73.21136,5.694237788,shift R
+2024,36095,New York,"Schoharie County, NY",59.04315,2.00841303,shift R
+2024,36101,New York,"Steuben County, NY",61.86119,2.616842422,shift R
+2024,36103,New York,"Suffolk County, NY",81.4175,10.8165062,shift R
+2024,36105,New York,"Sullivan County, NY",73.06243,7.595395636,shift R
+2024,36117,New York,"Wayne County, NY",62.26581,3.960302868,shift R
+2024,36119,New York,"Westchester County, NY",75.63758,9.919,shift R
+2024,36121,New York,"Wyoming County, NY",59.34577,2.111547755,shift R
+2024,37001,North Carolina,"Alamance County, NC",78.59385,-0.2578647832,shift D
+2024,37003,North Carolina,"Alexander County, NC",59.43395,1.721868267,shift R
+2024,37007,North Carolina,"Anson County, NC",60.98712,6.731567709,shift R
+2024,37011,North Carolina,"Avery County, NC",68.67085,-0.46425314,shift D
+2024,37013,North Carolina,"Beaufort County, NC",78.4055,5.398054185,shift R
+2024,37019,North Carolina,"Brunswick County, NC",76.37228,-0.2552635412,shift D
+2024,37021,North Carolina,"Buncombe County, NC",70.8122,-3.710187,shift D
+2024,37025,North Carolina,"Cabarrus County, NC",67.88182,-1.757329096,shift D
+2024,37031,North Carolina,"Carteret County, NC",82.59142,0.9236388692,shift R
+2024,37037,North Carolina,"Chatham County, NC",77.81973,-0.7613138302,shift D
+2024,37039,North Carolina,"Cherokee County, NC",81.21051,2.395052769,shift R
+2024,37049,North Carolina,"Craven County, NC",83.25219,2.01394905,shift R
+2024,37051,North Carolina,"Cumberland County, NC",79.77695,3.297781895,shift R
+2024,37053,North Carolina,"Currituck County, NC",86.68323,1.596998294,shift R
+2024,37057,North Carolina,"Davidson County, NC",68.02629,-1.075075857,shift D
+2024,37059,North Carolina,"Davie County, NC",68.91391,0.8170640779,shift R
+2024,37063,North Carolina,"Durham County, NC",76.40321,0.9567688218,shift R
+2024,37067,North Carolina,"Forsyth County, NC",75.7394,0.9860980805,shift R
+2024,37069,North Carolina,"Franklin County, NC",69.58508,0.2761731361,shift R
+2024,37071,North Carolina,"Gaston County, NC",66.72564,-2.962779089,shift D
+2024,37077,North Carolina,"Granville County, NC",69.64523,2.980393814,shift R
+2024,37081,North Carolina,"Guilford County, NC",72.35156,1.499691101,shift R
+2024,37085,North Carolina,"Harnett County, NC",80.79444,2.698070047,shift R
+2024,37087,North Carolina,"Haywood County, NC",76.47786,-1.457512835,shift D
+2024,37089,North Carolina,"Henderson County, NC",72.83048,-4.325656099,shift D
+2024,37093,North Carolina,"Hoke County, NC",83.91054,4.768069549,shift R
+2024,37097,North Carolina,"Iredell County, NC",66.3602,0.6498480838,shift R
+2024,37099,North Carolina,"Jackson County, NC",77.35076,1.191455151,shift R
+2024,37101,North Carolina,"Johnston County, NC",61.24531,-2.875914427,shift D
+2024,37105,North Carolina,"Lee County, NC",76.76123,2.651514302,shift R
+2024,37109,North Carolina,"Lincoln County, NC",60.81911,-0.5266063796,shift D
+2024,37111,North Carolina,"McDowell County, NC",59.09898,1.080163903,shift R
+2024,37115,North Carolina,"Madison County, NC",69.71185,-0.02541511352,shift D
+2024,37119,North Carolina,"Mecklenburg County, NC",74.03433,2.396295695,shift R
+2024,37121,North Carolina,"Mitchell County, NC",60.25637,-2.049382659,shift D
+2024,37123,North Carolina,"Montgomery County, NC",56.74472,6.091444773,shift R
+2024,37125,North Carolina,"Moore County, NC",74.67909,2.116454831,shift R
+2024,37127,North Carolina,"Nash County, NC",81.38649,1.800624929,shift R
+2024,37129,North Carolina,"New Hanover County, NC",86.63483,1.273170842,shift R
+2024,37133,North Carolina,"Onslow County, NC",85.14252,5.344580653,shift R
+2024,37135,North Carolina,"Orange County, NC",76.53181,0.5200504444,shift R
+2024,37141,North Carolina,"Pender County, NC",74.8692,5.399900269,shift R
+2024,37145,North Carolina,"Person County, NC",66.8805,2.112669347,shift R
+2024,37147,North Carolina,"Pitt County, NC",81.88772,3.793104655,shift R
+2024,37149,North Carolina,"Polk County, NC",72.62711,-0.7656042378,shift D
+2024,37151,North Carolina,"Randolph County, NC",72.01078,0.7736394871,shift R
+2024,37153,North Carolina,"Richmond County, NC",73.59268,5.93914388,shift R
+2024,37157,North Carolina,"Rockingham County, NC",67.31368,3.706676948,shift R
+2024,37159,North Carolina,"Rowan County, NC",63.65035,0.1230807142,shift R
+2024,37161,North Carolina,"Rutherford County, NC",63.27454,2.073396952,shift R
+2024,37165,North Carolina,"Scotland County, NC",71.191,5.27285775,shift R
+2024,37167,North Carolina,"Stanly County, NC",65.03152,-0.3859359398,shift D
+2024,37169,North Carolina,"Stokes County, NC",64.40551,1.788247852,shift R
+2024,37171,North Carolina,"Surry County, NC",69.47018,1.764590504,shift R
+2024,37179,North Carolina,"Union County, NC",69.65997,0.9291645511,shift R
+2024,37181,North Carolina,"Vance County, NC",64.06466,6.020675053,shift R
+2024,37183,North Carolina,"Wake County, NC",78.74989,1.042683488,shift R
+2024,37189,North Carolina,"Watauga County, NC",84.68007,2.404237327,shift R
+2024,37191,North Carolina,"Wayne County, NC",77.6111,4.549658856,shift R
+2024,37193,North Carolina,"Wilkes County, NC",75.7708,2.903548548,shift R
+2024,37195,North Carolina,"Wilson County, NC",81.86023,2.380399005,shift R
+2024,37197,North Carolina,"Yadkin County, NC",57.34802,1.360620392,shift R
+2024,37199,North Carolina,"Yancey County, NC",69.23407,0.5420651534,shift R
+2024,38015,North Dakota,"Burleigh County, ND",70.66385,2.676378168,shift R
+2024,39001,Ohio,"Adams County, OH",61.48402,2.237370019,shift R
+2024,39003,Ohio,"Allen County, OH",68.15352,4.402340326,shift R
+2024,39007,Ohio,"Ashtabula County, OH",65.98787,4.983365373,shift R
+2024,39015,Ohio,"Brown County, OH",62.97553,4.458928608,shift R
+2024,39017,Ohio,"Butler County, OH",70.43714,2.120917793,shift R
+2024,39019,Ohio,"Carroll County, OH",63.39871,2.046317792,shift R
+2024,39023,Ohio,"Clark County, OH",68.26286,6.182334724,shift R
+2024,39025,Ohio,"Clermont County, OH",69.37616,-0.8282266892,shift D
+2024,39027,Ohio,"Clinton County, OH",57.89127,1.612180552,shift R
+2024,39029,Ohio,"Columbiana County, OH",56.02306,4.07283056,shift R
+2024,39031,Ohio,"Coshocton County, OH",58.63372,3.288561895,shift R
+2024,39035,Ohio,"Cuyahoga County, OH",65.93286,3.043574698,shift R
+2024,39039,Ohio,"Defiance County, OH",55.74513,3.39401289,shift R
+2024,39041,Ohio,"Delaware County, OH",72.96168,0.0006499203396,shift R
+2024,39043,Ohio,"Erie County, OH",70.1262,2.406903479,shift R
+2024,39045,Ohio,"Fairfield County, OH",71.31266,0.5939253199,shift R
+2024,39047,Ohio,"Fayette County, OH",62.37904,3.548407552,shift R
+2024,39049,Ohio,"Franklin County, OH",69.92973,2.802130449,shift R
+2024,39051,Ohio,"Fulton County, OH",61.7067,2.338126019,shift R
+2024,39055,Ohio,"Geauga County, OH",68.61951,1.109885271,shift R
+2024,39057,Ohio,"Greene County, OH",68.13789,0.330393577,shift R
+2024,39061,Ohio,"Hamilton County, OH",72.44931,1.02676968,shift R
+2024,39063,Ohio,"Hancock County, OH",63.60438,0.7993033309,shift R
+2024,39071,Ohio,"Highland County, OH",52.98348,2.788186675,shift R
+2024,39075,Ohio,"Holmes County, OH",55.28606,1.258636285,shift R
+2024,39077,Ohio,"Huron County, OH",58.02376,2.870532333,shift R
+2024,39085,Ohio,"Lake County, OH",66.73015,0.7305925535,shift R
+2024,39089,Ohio,"Licking County, OH",67.92213,1.822476889,shift R
+2024,39091,Ohio,"Logan County, OH",66.91743,1.017716324,shift R
+2024,39093,Ohio,"Lorain County, OH",74.34025,3.064149817,shift R
+2024,39095,Ohio,"Lucas County, OH",63.26473,4.439381771,shift R
+2024,39097,Ohio,"Madison County, OH",63.49576,2.452731566,shift R
+2024,39099,Ohio,"Mahoning County, OH",64.33182,7.54411294,shift R
+2024,39101,Ohio,"Marion County, OH",59.40043,2.648059266,shift R
+2024,39103,Ohio,"Medina County, OH",70.68489,1.530536114,shift R
+2024,39109,Ohio,"Miami County, OH",68.20919,0.8711933096,shift R
+2024,39113,Ohio,"Montgomery County, OH",63.5979,1.891323448,shift R
+2024,39117,Ohio,"Morrow County, OH",58.80625,1.433310166,shift R
+2024,39119,Ohio,"Muskingum County, OH",67.58463,4.558131144,shift R
+2024,39123,Ohio,"Ottawa County, OH",69.16614,1.868310215,shift R
+2024,39127,Ohio,"Perry County, OH",56.87539,5.161418626,shift R
+2024,39129,Ohio,"Pickaway County, OH",73.29531,1.666647439,shift R
+2024,39133,Ohio,"Portage County, OH",70.16651,3.262335069,shift R
+2024,39135,Ohio,"Preble County, OH",69.26682,1.736895003,shift R
+2024,39139,Ohio,"Richland County, OH",70.84177,2.591021505,shift R
+2024,39141,Ohio,"Ross County, OH",74.71547,4.285606137,shift R
+2024,39143,Ohio,"Sandusky County, OH",59.78053,3.253593188,shift R
+2024,39151,Ohio,"Stark County, OH",70.00646,3.519960706,shift R
+2024,39153,Ohio,"Summit County, OH",62.54032,2.568925817,shift R
+2024,39155,Ohio,"Trumbull County, OH",69.21867,6.348493429,shift R
+2024,39159,Ohio,"Union County, OH",65.42401,-1.594655936,shift D
+2024,39165,Ohio,"Warren County, OH",73.53917,1.213334568,shift R
+2024,39169,Ohio,"Wayne County, OH",65.90078,2.096642787,shift R
+2024,39171,Ohio,"Williams County, OH",59.00092,1.580469548,shift R
+2024,39173,Ohio,"Wood County, OH",71.67974,2.759510664,shift R
+2024,40013,Oklahoma,"Bryan County, OK",63.69665,2.09008072,shift R
+2024,40015,Oklahoma,"Caddo County, OK",44.04627,3.042392255,shift R
+2024,40017,Oklahoma,"Canadian County, OK",58.35161,-2.892768084,shift D
+2024,40021,Oklahoma,"Cherokee County, OK",63.95072,3.271207558,shift R
+2024,40027,Oklahoma,"Cleveland County, OK",69.94735,0.847559499,shift R
+2024,40037,Oklahoma,"Creek County, OK",62.92187,0.9445488049,shift R
+2024,40041,Oklahoma,"Delaware County, OK",65.47928,1.890387644,shift R
+2024,40047,Oklahoma,"Garfield County, OK",53.81901,0.03589592411,shift R
+2024,40051,Oklahoma,"Grady County, OK",49.05333,0.3497125239,shift R
+2024,40073,Oklahoma,"Kingfisher County, OK",58.2262,-0.7939793806,shift D
+2024,40079,Oklahoma,"Le Flore County, OK",66.67118,1.425356192,shift R
+2024,40081,Oklahoma,"Lincoln County, OK",60.14223,0.09400679943,shift R
+2024,40083,Oklahoma,"Logan County, OK",53.6765,1.996654542,shift R
+2024,40087,Oklahoma,"McClain County, OK",54.32986,-0.2563692263,shift D
+2024,40097,Oklahoma,"Mayes County, OK",65.22591,2.328385762,shift R
+2024,40101,Oklahoma,"Muskogee County, OK",57.2134,3.67999405,shift R
+2024,40105,Oklahoma,"Nowata County, OK",50.65674,0.9603666506,shift R
+2024,40109,Oklahoma,"Oklahoma County, OK",69.39716,0.5498496361,shift R
+2024,40111,Oklahoma,"Okmulgee County, OK",54.14804,5.551897653,shift R
+2024,40113,Oklahoma,"Osage County, OK",70.10635,1.853895482,shift R
+2024,40119,Oklahoma,"Payne County, OK",75.9262,1.973560509,shift R
+2024,40121,Oklahoma,"Pittsburg County, OK",64.34559,2.74877492,shift R
+2024,40123,Oklahoma,"Pontotoc County, OK",69.25143,2.950684161,shift R
+2024,40125,Oklahoma,"Pottawatomie County, OK",59.76793,1.43553934,shift R
+2024,40131,Oklahoma,"Rogers County, OK",67.47716,0.1392835686,shift R
+2024,40143,Oklahoma,"Tulsa County, OK",71.84802,-0.3594565248,shift D
+2024,40145,Oklahoma,"Wagoner County, OK",64.2345,-0.3334049128,shift D
+2024,40147,Oklahoma,"Washington County, OK",70.82386,-0.3709467207,shift D
+2024,41001,Oregon,"Baker County, OR",63.11659,-1.49580872,shift D
+2024,41003,Oregon,"Benton County, OR",74.02474,0.4072099544,shift R
+2024,41005,Oregon,"Clackamas County, OR",71.93936,1.54387499,shift R
+2024,41007,Oregon,"Clatsop County, OR",79.82451,0.3376417465,shift R
+2024,41009,Oregon,"Columbia County, OR",59.78878,3.872017773,shift R
+2024,41011,Oregon,"Coos County, OR",66.67557,-0.6660855857,shift D
+2024,41013,Oregon,"Crook County, OR",58.20968,1.82409737,shift R
+2024,41015,Oregon,"Curry County, OR",64.73968,-0.2604065005,shift D
+2024,41017,Oregon,"Deschutes County, OR",69.03015,-1.873179425,shift D
+2024,41019,Oregon,"Douglas County, OR",72.03413,-0.1443995955,shift D
+2024,41027,Oregon,"Hood River County, OR",70.89986,1.102834629,shift R
+2024,41029,Oregon,"Jackson County, OR",75.8416,2.764978431,shift R
+2024,41031,Oregon,"Jefferson County, OR",58.02064,6.559117488,shift R
+2024,41035,Oregon,"Klamath County, OR",72.92654,1.033242337,shift R
+2024,41039,Oregon,"Lane County, OR",67.39407,1.621105546,shift R
+2024,41041,Oregon,"Lincoln County, OR",84.53286,-2.17629193,shift D
+2024,41043,Oregon,"Linn County, OR",65.52692,0.6424700781,shift R
+2024,41047,Oregon,"Marion County, OR",67.90439,3.508805267,shift R
+2024,41049,Oregon,"Morrow County, OR",52.35291,4.377805319,shift R
+2024,41051,Oregon,"Multnomah County, OR",62.66058,-0.05464637301,shift D
+2024,41053,Oregon,"Polk County, OR",62.39084,2.187913317,shift R
+2024,41057,Oregon,"Tillamook County, OR",80.37018,-0.5273384616,shift D
+2024,41059,Oregon,"Umatilla County, OR",59.23662,5.298487963,shift R
+2024,41061,Oregon,"Union County, OR",65.27043,-0.1249700687,shift D
+2024,41063,Oregon,"Wallowa County, OR",62.30906,1.121804777,shift R
+2024,41065,Oregon,"Wasco County, OR",62.85395,2.077106201,shift R
+2024,41067,Oregon,"Washington County, OR",65.39547,0.8601850325,shift R
+2024,41071,Oregon,"Yamhill County, OR",64.30669,2.162862366,shift R
+2024,42001,Pennsylvania,"Adams County, PA",74.72535,-0.5262689656,shift D
+2024,42003,Pennsylvania,"Allegheny County, PA",61.13802,0.2085676704,shift R
+2024,42005,Pennsylvania,"Armstrong County, PA",45.54952,0.9106947679,shift R
+2024,42007,Pennsylvania,"Beaver County, PA",56.09679,3.339908541,shift R
+2024,42009,Pennsylvania,"Bedford County, PA",64.89311,0.9228159965,shift R
+2024,42011,Pennsylvania,"Berks County, PA",76.46393,4.163589612,shift R
+2024,42013,Pennsylvania,"Blair County, PA",58.79686,-0.0244137705,shift D
+2024,42017,Pennsylvania,"Bucks County, PA",74.53246,4.480353726,shift R
+2024,42019,Pennsylvania,"Butler County, PA",68.66748,-0.7742594084,shift D
+2024,42027,Pennsylvania,"Centre County, PA",74.97143,1.923351625,shift R
+2024,42029,Pennsylvania,"Chester County, PA",76.17689,2.420350948,shift R
+2024,42041,Pennsylvania,"Cumberland County, PA",75.37307,-1.189032869,shift D
+2024,42043,Pennsylvania,"Dauphin County, PA",73.55836,1.813974766,shift R
+2024,42045,Pennsylvania,"Delaware County, PA",70.86856,2.765888294,shift R
+2024,42049,Pennsylvania,"Erie County, PA",70.00565,2.364350154,shift R
+2024,42055,Pennsylvania,"Franklin County, PA",78.92539,-0.1224446756,shift D
+2024,42057,Pennsylvania,"Fulton County, PA",49.32474,0.7790266731,shift R
+2024,42059,Pennsylvania,"Greene County, PA",35.31012,1.467812033,shift R
+2024,42063,Pennsylvania,"Indiana County, PA",52.91854,1.683916019,shift R
+2024,42069,Pennsylvania,"Lackawanna County, PA",72.58981,5.664232729,shift R
+2024,42071,Pennsylvania,"Lancaster County, PA",73.41549,-0.0879036588,shift D
+2024,42073,Pennsylvania,"Lawrence County, PA",51.85263,4.254468629,shift R
+2024,42075,Pennsylvania,"Lebanon County, PA",66.98986,0.3905339151,shift R
+2024,42077,Pennsylvania,"Lehigh County, PA",77.63093,4.863786255,shift R
+2024,42079,Pennsylvania,"Luzerne County, PA",76.24791,5.517271092,shift R
+2024,42081,Pennsylvania,"Lycoming County, PA",63.35735,0.1628662453,shift R
+2024,42089,Pennsylvania,"Monroe County, PA",77.3667,6.814231307,shift R
+2024,42091,Pennsylvania,"Montgomery County, PA",75.23659,3.603251774,shift R
+2024,42095,Pennsylvania,"Northampton County, PA",78.82097,2.788396992,shift R
+2024,42099,Pennsylvania,"Perry County, PA",62.19632,-0.6533980415,shift D
+2024,42101,Pennsylvania,"Philadelphia County, PA",55.67837,4.180299667,shift R
+2024,42103,Pennsylvania,"Pike County, PA",83.46475,5.029940267,shift R
+2024,42107,Pennsylvania,"Schuylkill County, PA",56.95783,2.252931004,shift R
+2024,42125,Pennsylvania,"Washington County, PA",60.16101,2.7938224,shift R
+2024,42129,Pennsylvania,"Westmoreland County, PA",62.03951,0.03732439984,shift R
+2024,42133,Pennsylvania,"York County, PA",68.72594,0.3324591549,shift R
+2024,44001,Rhode Island,"Bristol County, RI",77.51707,3.40827489,shift R
+2024,44003,Rhode Island,"Kent County, RI",83.87989,5.922326861,shift R
+2024,44005,Rhode Island,"Newport County, RI",80.20793,4.946381691,shift R
+2024,44007,Rhode Island,"Providence County, RI",85.91473,9.354397871,shift R
+2024,44009,Rhode Island,"Washington County, RI",83.46452,4.82732745,shift R
+2024,45003,South Carolina,"Aiken County, SC",75.55717,3.222848576,shift R
+2024,45007,South Carolina,"Anderson County, SC",65.07071,5.315468711,shift R
+2024,45013,South Carolina,"Beaufort County, SC",86.78839,4.491988386,shift R
+2024,45015,South Carolina,"Berkeley County, SC",61.75396,4.618132566,shift R
+2024,45019,South Carolina,"Charleston County, SC",77.87508,7.210267846,shift R
+2024,45023,South Carolina,"Chester County, SC",54.79776,6.299356959,shift R
+2024,45029,South Carolina,"Colleton County, SC",69.37471,8.634188764,shift R
+2024,45031,South Carolina,"Darlington County, SC",63.63105,8.347006402,shift R
+2024,45035,South Carolina,"Dorchester County, SC",70.82197,4.128039221,shift R
+2024,45041,South Carolina,"Florence County, SC",65.42957,5.76279821,shift R
+2024,45043,South Carolina,"Georgetown County, SC",70.73476,6.775007167,shift R
+2024,45045,South Carolina,"Greenville County, SC",70.23755,4.001489562,shift R
+2024,45047,South Carolina,"Greenwood County, SC",65.96365,6.207934813,shift R
+2024,45051,South Carolina,"Horry County, SC",58.62298,5.368305056,shift R
+2024,45057,South Carolina,"Lancaster County, SC",70.3903,1.951388312,shift R
+2024,45059,South Carolina,"Laurens County, SC",55.26579,8.555262078,shift R
+2024,45073,South Carolina,"Oconee County, SC",75.17077,4.126932722,shift R
+2024,45077,South Carolina,"Pickens County, SC",68.58495,1.816040459,shift R
+2024,45083,South Carolina,"Spartanburg County, SC",62.77586,6.292180264,shift R
+2024,45091,South Carolina,"York County, SC",62.9533,2.619349355,shift R
+2024,46029,South Dakota,"Codington County, SD",60.33901,1.866784931,shift R
+2024,46099,South Dakota,"Minnehaha County, SD",74.97283,3.185975975,shift R
+2024,46103,South Dakota,"Pennington County, SD",74.947,1.30216307,shift R
+2024,47001,Tennessee,"Anderson County, TN",73.27529,3.529434941,shift R
+2024,47003,Tennessee,"Bedford County, TN",63.0062,6.111719293,shift R
+2024,47009,Tennessee,"Blount County, TN",71.60442,3.449137446,shift R
+2024,47011,Tennessee,"Bradley County, TN",72.99625,3.704315586,shift R
+2024,47013,Tennessee,"Campbell County, TN",68.9379,3.348049616,shift R
+2024,47015,Tennessee,"Cannon County, TN",62.6707,6.24907177,shift R
+2024,47019,Tennessee,"Carter County, TN",72.81328,1.85933811,shift R
+2024,47021,Tennessee,"Cheatham County, TN",63.54073,1.773328287,shift R
+2024,47031,Tennessee,"Coffee County, TN",67.6665,5.080210633,shift R
+2024,47035,Tennessee,"Cumberland County, TN",67.29972,1.670605854,shift R
+2024,47037,Tennessee,"Davidson County, TN",66.47235,4.645836182,shift R
+2024,47043,Tennessee,"Dickson County, TN",62.92353,4.457197557,shift R
+2024,47045,Tennessee,"Dyer County, TN",61.27833,4.717719338,shift R
+2024,47047,Tennessee,"Fayette County, TN",42.29348,4.565894956,shift R
+2024,47049,Tennessee,"Fentress County, TN",62.59664,4.511554334,shift R
+2024,47051,Tennessee,"Franklin County, TN",61.79133,5.563273228,shift R
+2024,47053,Tennessee,"Gibson County, TN",59.90868,4.876765507,shift R
+2024,47055,Tennessee,"Giles County, TN",60.70614,5.894596026,shift R
+2024,47059,Tennessee,"Greene County, TN",74.72192,4.884279432,shift R
+2024,47063,Tennessee,"Hamblen County, TN",86.95245,4.924616051,shift R
+2024,47069,Tennessee,"Hardeman County, TN",59.34223,8.405190514,shift R
+2024,47071,Tennessee,"Hardin County, TN",64.96964,3.544644226,shift R
+2024,47073,Tennessee,"Hawkins County, TN",72.95243,3.009148304,shift R
+2024,47077,Tennessee,"Henderson County, TN",62.52245,3.802196975,shift R
+2024,47081,Tennessee,"Hickman County, TN",61.77096,5.681816926,shift R
+2024,47083,Tennessee,"Houston County, TN",52.10512,7.980345047,shift R
+2024,47085,Tennessee,"Humphreys County, TN",61.01278,6.244338528,shift R
+2024,47089,Tennessee,"Jefferson County, TN",79.4298,4.891147689,shift R
+2024,47093,Tennessee,"Knox County, TN",75.93522,4.274484093,shift R
+2024,47097,Tennessee,"Lauderdale County, TN",51.62208,9.385159771,shift R
+2024,47099,Tennessee,"Lawrence County, TN",62.50252,4.096053776,shift R
+2024,47101,Tennessee,"Lewis County, TN",60.04599,4.720073925,shift R
+2024,47103,Tennessee,"Lincoln County, TN",60.76281,4.614824461,shift R
+2024,47105,Tennessee,"Loudon County, TN",67.28835,2.769668895,shift R
+2024,47107,Tennessee,"McMinn County, TN",66.73903,3.681972604,shift R
+2024,47109,Tennessee,"McNairy County, TN",60.28973,5.045013611,shift R
+2024,47111,Tennessee,"Macon County, TN",48.52351,2.683167058,shift R
+2024,47113,Tennessee,"Madison County, TN",75.10914,5.003626954,shift R
+2024,47117,Tennessee,"Marshall County, TN",62.06431,6.620262698,shift R
+2024,47119,Tennessee,"Maury County, TN",65.28196,7.933287998,shift R
+2024,47123,Tennessee,"Monroe County, TN",68.56484,4.249252699,shift R
+2024,47125,Tennessee,"Montgomery County, TN",62.78603,5.704660752,shift R
+2024,47127,Tennessee,"Moore County, TN",57.38642,3.496823958,shift R
+2024,47129,Tennessee,"Morgan County, TN",54.73645,4.281062983,shift R
+2024,47133,Tennessee,"Overton County, TN",54.98902,5.56625615,shift R
+2024,47141,Tennessee,"Putnam County, TN",72.10309,3.753494783,shift R
+2024,47143,Tennessee,"Rhea County, TN",72.99542,3.204560105,shift R
+2024,47145,Tennessee,"Roane County, TN",68.2895,3.475642034,shift R
+2024,47147,Tennessee,"Robertson County, TN",65.27643,3.845809804,shift R
+2024,47149,Tennessee,"Rutherford County, TN",71.0777,6.376995093,shift R
+2024,47151,Tennessee,"Scott County, TN",60.0136,2.282769943,shift R
+2024,47155,Tennessee,"Sevier County, TN",73.49096,3.668522105,shift R
+2024,47157,Tennessee,"Shelby County, TN",55.25015,5.041802992,shift R
+2024,47161,Tennessee,"Stewart County, TN",59.85464,4.742003529,shift R
+2024,47163,Tennessee,"Sullivan County, TN",76.83036,3.019517754,shift R
+2024,47165,Tennessee,"Sumner County, TN",59.86033,3.095476421,shift R
+2024,47167,Tennessee,"Tipton County, TN",62.26568,4.365804129,shift R
+2024,47169,Tennessee,"Trousdale County, TN",68.94059,10.78740106,shift R
+2024,47171,Tennessee,"Unicoi County, TN",67.07001,1.972007053,shift R
+2024,47173,Tennessee,"Union County, TN",61.76709,2.843772879,shift R
+2024,47177,Tennessee,"Warren County, TN",56.74145,6.981312554,shift R
+2024,47179,Tennessee,"Washington County, TN",79.02509,2.651929367,shift R
+2024,47185,Tennessee,"White County, TN",69.42739,3.784785726,shift R
+2024,47187,Tennessee,"Williamson County, TN",77.45196,6.401741644,shift R
+2024,47189,Tennessee,"Wilson County, TN",61.33944,2.383959805,shift R
+2024,48013,Texas,"Atascosa County, TX",49.4347,9.340156986,shift R
+2024,48015,Texas,"Austin County, TX",59.90274,4.595168189,shift R
+2024,48019,Texas,"Bandera County, TX",54.68153,2.472905928,shift R
+2024,48021,Texas,"Bastrop County, TX",53.78487,4.755833953,shift R
+2024,48027,Texas,"Bell County, TX",61.23475,7.49645466,shift R
+2024,48029,Texas,"Bexar County, TX",50.08018,8.463414434,shift R
+2024,48039,Texas,"Brazoria County, TX",69.04584,1.445435841,shift R
+2024,48049,Texas,"Brown County, TX",59.34011,1.311706734,shift R
+2024,48053,Texas,"Burnet County, TX",57.05443,2.901024254,shift R
+2024,48055,Texas,"Caldwell County, TX",51.19894,5.075390111,shift R
+2024,48059,Texas,"Callahan County, TX",45.10489,0.4003037091,shift R
+2024,48061,Texas,"Cameron County, TX",63.50859,18.93046475,shift R
+2024,48071,Texas,"Chambers County, TX",47.58182,3.925469706,shift R
+2024,48085,Texas,"Collin County, TX",66.14047,6.77052616,shift R
+2024,48089,Texas,"Colorado County, TX",58.86907,6.444427306,shift R
+2024,48091,Texas,"Comal County, TX",54.14585,2.504762016,shift R
+2024,48093,Texas,"Comanche County, TX",49.47107,2.949186129,shift R
+2024,48097,Texas,"Cooke County, TX",58.80948,1.578956343,shift R
+2024,48099,Texas,"Coryell County, TX",66.11332,7.267181052,shift R
+2024,48113,Texas,"Dallas County, TX",61.6285,9.723051183,shift R
+2024,48121,Texas,"Denton County, TX",64.06403,5.196169803,shift R
+2024,48139,Texas,"Ellis County, TX",54.1979,-3.038313485,shift D
+2024,48141,Texas,"El Paso County, TX",77.12281,19.2873247,shift R
+2024,48143,Texas,"Erath County, TX",65.45642,3.961118436,shift R
+2024,48147,Texas,"Fannin County, TX",50.61174,3.865509701,shift R
+2024,48149,Texas,"Fayette County, TX",60.10281429,3.284928955,shift R
+2024,48157,Texas,"Fort Bend County, TX",66.55038,9.119162215,shift R
+2024,48167,Texas,"Galveston County, TX",62.93978,4.691434198,shift R
+2024,48177,Texas,"Gonzales County, TX",49.52551,6.077690505,shift R
+2024,48181,Texas,"Grayson County, TX",56.67583,4.022626636,shift R
+2024,48187,Texas,"Guadalupe County, TX",43.32967,5.397563335,shift R
+2024,48201,Texas,"Harris County, TX",63.82787,7.667029266,shift R
+2024,48209,Texas,"Hays County, TX",51.3704,5.248775231,shift R
+2024,48213,Texas,"Henderson County, TX",46.22722,3.294633953,shift R
+2024,48215,Texas,"Hidalgo County, TX",59.67415,19.98853271,shift R
+2024,48217,Texas,"Hill County, TX",57.12406,3.424407277,shift R
+2024,48221,Texas,"Hood County, TX",50.73924,1.826431802,shift R
+2024,48223,Texas,"Hopkins County, TX",56.01263,3.825116871,shift R
+2024,48225,Texas,"Houston County, TX",49.64857,5.014810354,shift R
+2024,48231,Texas,"Hunt County, TX",48.99133,2.920578383,shift R
+2024,48249,Texas,"Jim Wells County, TX",55.63876,5.617006119,shift R
+2024,48251,Texas,"Johnson County, TX",54.32862,-1.465689108,shift D
+2024,48253,Texas,"Jones County, TX",43.63434,3.910019393,shift R
+2024,48257,Texas,"Kaufman County, TX",46.87379,-6.076103794,shift D
+2024,48259,Texas,"Kendall County, TX",66.74981,2.273967808,shift R
+2024,48273,Texas,"Kleberg County, TX",53.84572,10.81830252,shift R
+2024,48287,Texas,"Lee County, TX",50.34462,4.675246555,shift R
+2024,48291,Texas,"Liberty County, TX",51.19817,1.931230449,shift R
+2024,48309,Texas,"McLennan County, TX",77.90553,7.536631761,shift R
+2024,48325,Texas,"Medina County, TX",51.80215,3.480013606,shift R
+2024,48337,Texas,"Montague County, TX",54.92709,1.028269217,shift R
+2024,48339,Texas,"Montgomery County, TX",50.83254,1.686622027,shift R
+2024,48349,Texas,"Navarro County, TX",59.26635,6.318713739,shift R
+2024,48363,Texas,"Palo Pinto County, TX",54.35185,3.047233598,shift R
+2024,48367,Texas,"Parker County, TX",56.58823,1.727091996,shift R
+2024,48397,Texas,"Rockwall County, TX",53.72765,4.963668562,shift R
+2024,48407,Texas,"San Jacinto County, TX",58.41225,3.412675762,shift R
+2024,48425,Texas,"Somervell County, TX",56.20071,3.466513902,shift R
+2024,48439,Texas,"Tarrant County, TX",61.65726,5.376993407,shift R
+2024,48441,Texas,"Taylor County, TX",54.18639,4.395412032,shift R
+2024,48453,Texas,"Travis County, TX",52.89032,5.883012797,shift R
+2024,48467,Texas,"Van Zandt County, TX",53.30483,2.245141614,shift R
+2024,48469,Texas,"Victoria County, TX",54.79181,4.631823299,shift R
+2024,48471,Texas,"Walker County, TX",60.79368,8.208203248,shift R
+2024,48473,Texas,"Waller County, TX",57.96072,-1.822944775,shift D
+2024,48477,Texas,"Washington County, TX",57.78845,4.752054947,shift R
+2024,48481,Texas,"Wharton County, TX",56.91993,8.703686466,shift R
+2024,48491,Texas,"Williamson County, TX",59.19043,3.814209148,shift R
+2024,48493,Texas,"Wilson County, TX",48.21373,5.286848575,shift R
+2024,48497,Texas,"Wise County, TX",45.58526,1.843402227,shift R
+2024,49003,Utah,"Box Elder County, UT",62.22426,-2.671787834,shift D
+2024,49005,Utah,"Cache County, UT",59.2053,-1.937516839,shift D
+2024,49007,Utah,"Carbon County, UT",69.70875,-0.8027865775,shift D
+2024,49011,Utah,"Davis County, UT",65.86509,-2.741459809,shift D
+2024,49013,Utah,"Duchesne County, UT",69.98503,-1.870851318,shift D
+2024,49021,Utah,"Iron County, UT",75.4105,0.8951800493,shift R
+2024,49023,Utah,"Juab County, UT",53.88377,0.09986291204,shift R
+2024,49027,Utah,"Millard County, UT",61.47463,-1.402999676,shift D
+2024,49029,Utah,"Morgan County, UT",58.17974,-2.284221917,shift D
+2024,49035,Utah,"Salt Lake County, UT",68.55776,1.685736203,shift R
+2024,49039,Utah,"Sanpete County, UT",65.20499,-0.2493474249,shift D
+2024,49041,Utah,"Sevier County, UT",62.52055,-0.03976648798,shift D
+2024,49043,Utah,"Summit County, UT",69.66389,4.810901805,shift R
+2024,49045,Utah,"Tooele County, UT",60.16706,2.794331206,shift R
+2024,49047,Utah,"Uintah County, UT",76.60914,-1.681178038,shift D
+2024,49049,Utah,"Utah County, UT",67.19098,-0.5441295289,shift D
+2024,49051,Utah,"Wasatch County, UT",65.86147,2.382013411,shift R
+2024,49053,Utah,"Washington County, UT",75.52078,1.041813655,shift R
+2024,49057,Utah,"Weber County, UT",65.86871,0.7216461414,shift R
+2024,50001,Vermont,"Addison County, VT",70.33943,5.175466272,shift R
+2024,50003,Vermont,"Bennington County, VT",77.49859,5.510764768,shift R
+2024,50005,Vermont,"Caledonia County, VT",62.81343,3.441967008,shift R
+2024,50007,Vermont,"Chittenden County, VT",77.49654,3.086386482,shift R
+2024,50011,Vermont,"Franklin County, VT",79.31951,6.32724866,shift R
+2024,50013,Vermont,"Grand Isle County, VT",67.85284,2.116818742,shift R
+2024,50015,Vermont,"Lamoille County, VT",81.60067,6.500179789,shift R
+2024,50017,Vermont,"Orange County, VT",64.5509,4.860999841,shift R
+2024,50019,Vermont,"Orleans County, VT",65.82396,6.174486902,shift R
+2024,50021,Vermont,"Rutland County, VT",81.09828,5.555992102,shift R
+2024,50023,Vermont,"Washington County, VT",72.10538,4.620399188,shift R
+2024,50025,Vermont,"Windham County, VT",81.63252,7.291224183,shift R
+2024,50027,Vermont,"Windsor County, VT",74.88161,4.797514236,shift R
+2024,51001,Virginia,"Accomack County, VA",76.51091,3.209355287,shift R
+2024,51003,Virginia,"Albemarle County, VA",77.95859,-0.201833324,shift D
+2024,51013,Virginia,"Arlington County, VA",63.35899,6.053821482,shift R
+2024,51015,Virginia,"Augusta County, VA",75.48378,0.2004984698,shift R
+2024,51019,Virginia,"Bedford County, VA",83.93248,1.811466892,shift R
+2024,51033,Virginia,"Caroline County, VA",68.59878,4.611940018,shift R
+2024,51041,Virginia,"Chesterfield County, VA",75.70473,-3.039022802,shift D
+2024,51043,Virginia,"Clarke County, VA",62.41095,3.057527594,shift R
+2024,51047,Virginia,"Culpeper County, VA",72.3381,4.958420737,shift R
+2024,51053,Virginia,"Dinwiddie County, VA",63.63575,6.701067823,shift R
+2024,51059,Virginia,"Fairfax County, VA",70.84723,7.201766003,shift R
+2024,51061,Virginia,"Fauquier County, VA",75.36012,4.188026679,shift R
+2024,51069,Virginia,"Frederick County, VA",67.0957,0.7756541152,shift R
+2024,51075,Virginia,"Goochland County, VA",77.15871,-0.9540056008,shift D
+2024,51085,Virginia,"Hanover County, VA",78.85776,-1.218302586,shift D
+2024,51087,Virginia,"Henrico County, VA",75.59677,0.3863025055,shift R
+2024,51089,Virginia,"Henry County, VA",68.77432,3.612018225,shift R
+2024,51093,Virginia,"Isle of Wight County, VA",65.00579,1.324071233,shift R
+2024,51099,Virginia,"King George County, VA",69.89358,3.41774953,shift R
+2024,51107,Virginia,"Loudoun County, VA",71.69031,8.848732094,shift R
+2024,51113,Virginia,"Madison County, VA",66.14949,3.02652018,shift R
+2024,51137,Virginia,"Orange County, VA",68.02013,3.142248226,shift R
+2024,51139,Virginia,"Page County, VA",66.98998,3.174699879,shift R
+2024,51145,Virginia,"Powhatan County, VA",76.51257,-0.3595129835,shift D
+2024,51149,Virginia,"Prince George County, VA",71.80529,2.421937159,shift R
+2024,51153,Virginia,"Prince William County, VA",78.1036,9.152838725,shift R
+2024,51157,Virginia,"Rappahannock County, VA",60.7643,3.384637902,shift R
+2024,51161,Virginia,"Roanoke County, VA",79.92082,1.053142571,shift R
+2024,51163,Virginia,"Rockbridge County, VA",74.12069,1.039126591,shift R
+2024,51165,Virginia,"Rockingham County, VA",79.30511,-0.1263540005,shift D
+2024,51171,Virginia,"Shenandoah County, VA",77.43383,1.122866256,shift R
+2024,51177,Virginia,"Spotsylvania County, VA",75.21853,1.731214687,shift R
+2024,51179,Virginia,"Stafford County, VA",76.50905,2.499378557,shift R
+2024,51183,Virginia,"Sussex County, VA",55.24445,7.854411432,shift R
+2024,51187,Virginia,"Warren County, VA",75.55307,1.945661815,shift R
+2024,51191,Virginia,"Washington County, VA",69.38768,0.6236694785,shift R
+2024,51193,Virginia,"Westmoreland County, VA",74.07059,5.800459553,shift R
+2024,51199,Virginia,"York County, VA",80.92246,-0.5229581503,shift D
+2024,51510,Virginia,"Alexandria city, VA",65.91911,6.071387636,shift R
+2024,51520,Virginia,"Bristol city, VA",67.94542,0.712001202,shift R
+2024,51540,Virginia,"Charlottesville city, VA",84.52306,4.727580123,shift R
+2024,51550,Virginia,"Chesapeake city, VA",70.04773,2.685679424,shift R
+2024,51570,Virginia,"Colonial Heights city, VA",65.90668,-0.9376324698,shift D
+2024,51600,Virginia,"Fairfax city, VA",77.85938,5.60815234,shift R
+2024,51610,Virginia,"Falls Church city, VA",67.86657,3.064188921,shift R
+2024,51620,Virginia,"Franklin city, VA",59.38108,2.868659802,shift R
+2024,51630,Virginia,"Fredericksburg city, VA",63.41326,3.387118773,shift R
+2024,51650,Virginia,"Hampton city, VA",80.29657,3.176553343,shift R
+2024,51660,Virginia,"Harrisonburg city, VA",75.62703,6.748013539,shift R
+2024,51670,Virginia,"Hopewell city, VA",70.86755,0.8837143813,shift R
+2024,51680,Virginia,"Lynchburg city, VA",79.5197,6.744622173,shift R
+2024,51683,Virginia,"Manassas city, VA",63.36273,9.508786465,shift R
+2024,51685,Virginia,"Manassas Park city, VA",74.8627,10.61260603,shift R
+2024,51700,Virginia,"Newport News city, VA",73.8822,2.953371454,shift R
+2024,51710,Virginia,"Norfolk city, VA",78.39735,4.260202647,shift R
+2024,51730,Virginia,"Petersburg city, VA",70.82209,4.19096792,shift R
+2024,51735,Virginia,"Poquoson city, VA",71.7185,0.2266467925,shift R
+2024,51740,Virginia,"Portsmouth city, VA",82.68569,2.143062817,shift R
+2024,51760,Virginia,"Richmond city, VA",72.68439,2.196979411,shift R
+2024,51770,Virginia,"Roanoke city, VA",86.99221,2.358299422,shift R
+2024,51800,Virginia,"Suffolk city, VA",73.02775,1.498086533,shift R
+2024,51810,Virginia,"Virginia Beach city, VA",79.11764,4.914070098,shift R
+2024,51840,Virginia,"Winchester city, VA",69.94436,1.82193484,shift R
+2024,53005,Washington,"Benton County, WA",82.26492,0.7152109197,shift R
+2024,53007,Washington,"Chelan County, WA",67.47601,1.726157849,shift R
+2024,53009,Washington,"Clallam County, WA",81.83763,-4.106358243,shift D
+2024,53011,Washington,"Clark County, WA",71.6629,-1.901300735,shift D
+2024,53015,Washington,"Cowlitz County, WA",65.66475,2.719622186,shift R
+2024,53017,Washington,"Douglas County, WA",63.05323,2.863620216,shift R
+2024,53021,Washington,"Franklin County, WA",76.03832,8.635176461,shift R
+2024,53025,Washington,"Grant County, WA",67.03706,4.948481347,shift R
+2024,53027,Washington,"Grays Harbor County, WA",67.27974,-0.1944956007,shift D
+2024,53029,Washington,"Island County, WA",74.71168,-4.382114365,shift D
+2024,53031,Washington,"Jefferson County, WA",73.08236,-4.254349411,shift D
+2024,53033,Washington,"King County, WA",70.99736,1.608771274,shift R
+2024,53035,Washington,"Kitsap County, WA",66.187,-2.316615429,shift D
+2024,53037,Washington,"Kittitas County, WA",69.46169,4.316469223,shift R
+2024,53039,Washington,"Klickitat County, WA",61.92997,0.1779874214,shift R
+2024,53041,Washington,"Lewis County, WA",66.24555,0.2523718182,shift R
+2024,53045,Washington,"Mason County, WA",59.00633,-1.389951317,shift D
+2024,53047,Washington,"Okanogan County, WA",62.64068,1.424141108,shift R
+2024,53049,Washington,"Pacific County, WA",65.89659,0.1513127628,shift R
+2024,53051,Washington,"Pend Oreille County, WA",69.14724,2.776394143,shift R
+2024,53053,Washington,"Pierce County, WA",70.22528,0.4757040287,shift R
+2024,53055,Washington,"San Juan County, WA",72.71365,-0.4981068815,shift D
+2024,53057,Washington,"Skagit County, WA",72.3863,-1.026362425,shift D
+2024,53059,Washington,"Skamania County, WA",64.41579,2.07952552,shift R
+2024,53061,Washington,"Snohomish County, WA",79.21067,1.743189817,shift R
+2024,53063,Washington,"Spokane County, WA",72.32171,0.6100223514,shift R
+2024,53065,Washington,"Stevens County, WA",67.22109,4.919068142,shift R
+2024,53067,Washington,"Thurston County, WA",71.09502,-1.444997748,shift D
+2024,53071,Washington,"Walla Walla County, WA",85.89455,3.587274841,shift R
+2024,53073,Washington,"Whatcom County, WA",73.95599,-0.8181383802,shift D
+2024,53077,Washington,"Yakima County, WA",76.34201,6.351482725,shift R
+2024,54003,West Virginia,"Berkeley County, WV",71.98816,3.262344711,shift R
+2024,54027,West Virginia,"Hampshire County, WV",63.70226,2.272890146,shift R
+2024,54037,West Virginia,"Jefferson County, WV",65.85902,5.307938827,shift R
+2024,54039,West Virginia,"Kanawha County, WV",64.3876,2.766254213,shift R
+2024,54057,West Virginia,"Mineral County, WV",49.57776,2.833642287,shift R
+2024,54065,West Virginia,"Morgan County, WV",66.97728,3.216897278,shift R
+2024,54069,West Virginia,"Ohio County, WV",54.78763,0.1802457809,shift R
+2024,54079,West Virginia,"Putnam County, WV",63.24449,3.799761282,shift R
+2024,55001,Wisconsin,"Adams County, WI",64.37112,0.06689616919,shift R
+2024,55003,Wisconsin,"Ashland County, WI",57.00389,6.137018766,shift R
+2024,55005,Wisconsin,"Barron County, WI",69.00541,3.041695473,shift R
+2024,55007,Wisconsin,"Bayfield County, WI",67.04618,3.000575773,shift R
+2024,55009,Wisconsin,"Brown County, WI",77.58278,0.3155653107,shift R
+2024,55011,Wisconsin,"Buffalo County, WI",62.3267,4.93736753,shift R
+2024,55013,Wisconsin,"Burnett County, WI",66.7165,2.269117986,shift R
+2024,55015,Wisconsin,"Calumet County, WI",70.33989,0.4162325096,shift R
+2024,55017,Wisconsin,"Chippewa County, WI",64.94009,2.632381332,shift R
+2024,55019,Wisconsin,"Clark County, WI",54.08734,2.166006655,shift R
+2024,55021,Wisconsin,"Columbia County, WI",66.29196,3.064896569,shift R
+2024,55023,Wisconsin,"Crawford County, WI",56.25566,5.929272895,shift R
+2024,55025,Wisconsin,"Dane County, WI",73.83525,1.088470257,shift R
+2024,55027,Wisconsin,"Dodge County, WI",69.46325,1.901177604,shift R
+2024,55029,Wisconsin,"Door County, WI",73.42323,-0.773684717,shift D
+2024,55033,Wisconsin,"Dunn County, WI",64.04812,2.028996101,shift R
+2024,55035,Wisconsin,"Eau Claire County, WI",65.73271,0.2168886308,shift R
+2024,55039,Wisconsin,"Fond du Lac County, WI",73.97218,2.193410228,shift R
+2024,55043,Wisconsin,"Grant County, WI",61.24388,6.221363808,shift R
+2024,55045,Wisconsin,"Green County, WI",57.40385,2.923976577,shift R
+2024,55047,Wisconsin,"Green Lake County, WI",61.54574,0.4290458845,shift R
+2024,55049,Wisconsin,"Iowa County, WI",62.37035,6.099424235,shift R
+2024,55053,Wisconsin,"Jackson County, WI",59.79851,4.447976826,shift R
+2024,55055,Wisconsin,"Jefferson County, WI",69.49288,1.106386788,shift R
+2024,55057,Wisconsin,"Juneau County, WI",64.61812,2.895677808,shift R
+2024,55059,Wisconsin,"Kenosha County, WI",64.20462,3.094401638,shift R
+2024,55063,Wisconsin,"La Crosse County, WI",75.63289,4.162975994,shift R
+2024,55065,Wisconsin,"Lafayette County, WI",52.11706,6.548102477,shift R
+2024,55067,Wisconsin,"Langlade County, WI",61.18158,2.110489615,shift R
+2024,55069,Wisconsin,"Lincoln County, WI",64.83268,2.405200507,shift R
+2024,55071,Wisconsin,"Manitowoc County, WI",68.81525,0.1559214997,shift R
+2024,55073,Wisconsin,"Marathon County, WI",65.39723,0.819863733,shift R
+2024,55075,Wisconsin,"Marinette County, WI",59.76781,3.369369451,shift R
+2024,55077,Wisconsin,"Marquette County, WI",63.20952,2.086850768,shift R
+2024,55079,Wisconsin,"Milwaukee County, WI",71.26729,1.409458445,shift R
+2024,55081,Wisconsin,"Monroe County, WI",70.56775,2.256989162,shift R
+2024,55083,Wisconsin,"Oconto County, WI",63.84043,2.015786512,shift R
+2024,55085,Wisconsin,"Oneida County, WI",78.2758,2.850530614,shift R
+2024,55087,Wisconsin,"Outagamie County, WI",74.11459,0.2444272268,shift R
+2024,55089,Wisconsin,"Ozaukee County, WI",72.62714,-1.59032675,shift D
+2024,55091,Wisconsin,"Pepin County, WI",51.38849,2.854333004,shift R
+2024,55093,Wisconsin,"Pierce County, WI",77.17673,3.812770799,shift R
+2024,55095,Wisconsin,"Polk County, WI",63.01882,3.479837501,shift R
+2024,55097,Wisconsin,"Portage County, WI",66.09039,1.587642891,shift R
+2024,55101,Wisconsin,"Racine County, WI",65.53174,2.098477799,shift R
+2024,55103,Wisconsin,"Richland County, WI",55.34778,3.361168128,shift R
+2024,55105,Wisconsin,"Rock County, WI",67.70423,3.873974641,shift R
+2024,55107,Wisconsin,"Rusk County, WI",57.16677,4.03006468,shift R
+2024,55109,Wisconsin,"St. Croix County, WI",65.85663,3.360063067,shift R
+2024,55111,Wisconsin,"Sauk County, WI",68.93589,3.353998674,shift R
+2024,55113,Wisconsin,"Sawyer County, WI",67.48323,3.116719037,shift R
+2024,55115,Wisconsin,"Shawano County, WI",65.54903,-0.05467695952,shift D
+2024,55117,Wisconsin,"Sheboygan County, WI",72.92726,0.3952182288,shift R
+2024,55119,Wisconsin,"Taylor County, WI",58.82066,1.765771686,shift R
+2024,55121,Wisconsin,"Trempealeau County, WI",59.62517,4.852578801,shift R
+2024,55123,Wisconsin,"Vernon County, WI",57.75562,2.989236296,shift R
+2024,55125,Wisconsin,"Vilas County, WI",72.81394,1.152593891,shift R
+2024,55127,Wisconsin,"Walworth County, WI",72.25184,2.981147669,shift R
+2024,55129,Wisconsin,"Washburn County, WI",64.51404,4.494256865,shift R
+2024,55131,Wisconsin,"Washington County, WI",66.54525,-1.842399293,shift D
+2024,55133,Wisconsin,"Waukesha County, WI",72.4866,-1.122633766,shift D
+2024,55135,Wisconsin,"Waupaca County, WI",66.14136,1.635449866,shift R
+2024,55137,Wisconsin,"Waushara County, WI",71.84067,1.167369439,shift R
+2024,55139,Wisconsin,"Winnebago County, WI",71.16222,0.769580346,shift R
+2024,55141,Wisconsin,"Wood County, WI",56.22785,0.6418962427,shift R
+2024,56025,Wyoming,"Natrona County, WY",78.38953,0.5961045342,shift R

@@ -4,6 +4,7 @@ The data and tools behind the NBC News Data &amp; Graphics team projects
 
 Story title | Folder name | Story URL
 --- | --- | ---
+Toughest housing markets shifted toward Trump, data shows | [home-buyer-index](home-buyer-index) | [Toughest housing markets shifted toward Trump, data shows](https://www.nbcnews.com/data-graphics/housing-market-trump-win-2024-election-rcna179153)
 FEMA vaccine supersite demographic data | [fema-vaccine-supersites](fema-vaccine-supersites) | [Federal vaccination data show mixed record on equity](https://www.nbcnews.com/politics/white-house/federal-vaccination-data-show-mixed-record-equity-n1276833)
 Supreme Court confirmations data | [supreme-court](supreme-court) | [Supreme Court nominations are taking longer. Time is not on Trump's side.](https://www.nbcnews.com/politics/supreme-court/supreme-court-nominations-are-taking-longer-time-not-trump-s-n1241077)
 U.S. statue and memorial removals | [statue-removal](statue-removal) | [A map of statue removals, 2020](https://www.nbcnews.com/news/us-news/2020-next-wave-statue-removals-afoot-map-n1230506)
